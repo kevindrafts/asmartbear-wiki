@@ -8,11 +8,12 @@ An independent, source-linked reading companion to Jason Cohen's company-buildin
 
 ## Build and check
 
-Python 3.9 or later (CI uses 3.12). No source fetch is needed to build.
+Python 3.9 or later (CI uses 3.12); Node 22+ for the small browser-search regression suite. No source fetch is needed to build.
 
 ```sh
 python3 -m venv .venv
 .venv/bin/python -m pip install --cache-dir .cache/pip -r requirements.txt
+node --test tests/search.test.cjs
 .venv/bin/python -m unittest discover -s tests -v
 .venv/bin/python -m scripts.finalize_site
 .venv/bin/python -m scripts.build_site
@@ -20,6 +21,8 @@ python3 -m venv .venv
 .venv/bin/mkdocs build --strict
 .venv/bin/python -m http.server 8000 --directory site/public
 ```
+
+After a successful Pages deployment, `.venv/bin/python -m scripts.check_deployment` checks every built content page and the search/style assets at the public URL, then writes `reports/deployment-audit.json`.
 
 Open http://localhost:8000/. MkDocs supplies responsive navigation and local client-side search; the staging script adds catalog views, source dates, topic collections, and backlinks. Authored Markdown remains in `processed/` and `wiki/`. Generated `site/docs/` and `site/public/` are ignored by Git. GitHub Actions builds only those public editorial inputs and deploys to Pages on pushes to `main`; it never crawls source articles.
 

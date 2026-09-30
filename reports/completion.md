@@ -1,6 +1,6 @@
 # Completion and publication verification
 
-Snapshot: September 30, 2026. Editorial, implementation, and local audits are complete. Initial public deployment is in progress; this report will be updated with the measured deployment result.
+Snapshot: September 30, 2026. Editorial, implementation, and local audits are complete. Initial public deployment succeeded; all 296 content pages and five search/style assets returned HTTP 200. A natural-language search punctuation fix and its three regression tests are now being released before the final verification checkpoint.
 
 ## Delivered
 
@@ -15,6 +15,7 @@ Snapshot: September 30, 2026. Editorial, implementation, and local audits are co
 Executed from the repository root:
 
 ```sh
+node --test tests/search.test.cjs
 .venv/bin/python -m unittest discover -s tests -v
 .venv/bin/python -m scripts.finalize_site
 .venv/bin/python -m scripts.build_site
@@ -24,7 +25,7 @@ Executed from the repository root:
 git diff --cached --check
 ```
 
-19 tests passed. Ingestion and validator tests were established before implementation; subsequent hardening tests were also observed failing before implementation. Strict build passed. Complete coverage, note hashes/dates, canonical uniqueness, citations, synthesis references, local links/anchors, and homepage reachability passed with zero errors. Source-overlap scans across original Markdown, built HTML, search entries, staged files, and existing Git blobs reported zero findings. Recognizable credential-pattern and raw-capture checks reported zero findings. Only original commentary and source metadata enter Git or build output.
+19 Python tests and three JavaScript search regression tests passed. Ingestion and validator tests were established before implementation; subsequent hardening tests were also observed failing before implementation. Strict build passed. Complete coverage, note hashes/dates, canonical uniqueness, citations, synthesis references, local links/anchors, and homepage reachability passed with zero errors. Source-overlap scans across original Markdown, built HTML, search entries, staged files, and existing Git blobs reported zero findings. Recognizable credential-pattern and raw-capture checks reported zero findings. Only original commentary and source metadata enter Git or build output.
 
 Chrome verification passed on the local build: pricing, churn, and retention searches; input/paste support; results after immediate typing during worker initialization; distinct page results; a search-to-guide-to-note navigation path; source links, visible dates, and backlinks. Homepage, collapsed/expanded navigation, and article layout were inspected at 390 × 844. No console errors were observed during the checked search flow. Browser testing found and resolved a reserved-frontmatter rendering issue and the search initialization edge case.
 
@@ -38,8 +39,8 @@ git commit -m "Build complete source-linked A Smart Bear wiki"
 git push origin main
 ```
 
-Pages creation succeeded with `build_type: workflow`. Initial commit/push and Actions deployment verification follow this local completion checkpoint.
+Pages creation succeeded with `build_type: workflow`. Initial commit `3b355e6` was pushed successfully. [Actions run 36734638622](https://github.com/kevindrafts/asmartbear-wiki/actions/runs/36734638622) completed successfully. The full deployed-site audit checked 301 URLs with zero failures; 296 distinct pages are present in the search index.
 
 ## Qualifications and exact gaps
 
-There are no known included-source or editorial coverage gaps. Public deployment verification is the remaining release step at this checkpoint. The two publicly reachable off-sitemap essays retain anomalous 2030 source dates with explicit caveats. Nineteen legacy destinations remain deliberately outside longform scope; one additional legacy URL is an alias of an included article. Robots-excluded endpoints were not requested. No assertion is made that every decorative image was visually inspected or that linked third-party research was independently corroborated. See [coverage](coverage.md) and [editorial audit](editorial-audit.md) for details.
+There are no known included-source or editorial coverage gaps. Final deployment of the tested search punctuation fix is the remaining release step at this checkpoint. The two publicly reachable off-sitemap essays retain anomalous 2030 source dates with explicit caveats. Nineteen legacy destinations remain deliberately outside longform scope; one additional legacy URL is an alias of an included article. Robots-excluded endpoints were not requested. No assertion is made that every decorative image was visually inspected or that linked third-party research was independently corroborated. See [coverage](coverage.md) and [editorial audit](editorial-audit.md) for details.
