@@ -4,15 +4,17 @@ Updated September 30, 2026. Execution and public publishing to `kevindrafts/asma
 
 | Phase | State |
 |---|---|
-| Test-first ingestion and validators | Complete; 19 tests pass |
+| Test-first ingestion and validators | Complete; 19 Python and three JavaScript tests pass |
 | Pilot extraction/read/build | Complete; 12 varied sources, full-body tail and structure checks |
 | Complete discovery and classification | Complete; 274 URL records, 226 included, 48 exclusions |
 | Full capture and reading | Complete; 226 bodies, 343,448 extracted words, zero included fetch failures |
 | Original article notes | Complete; 226 reviewed notes tied to source-body hashes |
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
-| Coverage, citations, links, source overlap | Passed; final staged/history review in progress |
-| Pages publishing and deployed browser check | In progress; see completion report for final result |
+| Coverage, citations, links, source overlap | Complete; zero coverage, link, overlap, or staged/history findings |
+| Pages publishing and deployed browser check | Complete; all 296 content pages and five assets HTTP 200; live search verified |
+
+Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). No known blockers. Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 
 ## Durable checkpoints
 
