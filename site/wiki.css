@@ -1,0 +1,10 @@
+:root { --bs-body-font-size: 1.05rem; }
+body { line-height: 1.75; }
+h1,h2,h3 { line-height: 1.25; letter-spacing: -.025em; }
+h1 { margin-bottom: 1.2rem; }
+.col-md-9 { max-width: 58rem; }
+.navbar-brand { font-weight: 650; font-size: 1.1rem; }
+a { text-underline-offset: .18em; }
+blockquote { border-left: 3px solid #327c71; padding-left: 1rem; }
+footer { font-size: .85rem; }
+@media (max-width: 600px) { .navbar-brand { font-size: .86rem; } h1 { font-size: 1.9rem; } }
