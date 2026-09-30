@@ -30,4 +30,4 @@ nav:
   - Attribution: ATTRIBUTION.md
   - Editorial license: CONTENT-LICENSE.md
 extra_javascript:
-  - assets/wiki.js
+  - assets/wiki.js?v=20260930-2
