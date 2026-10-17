@@ -1,6 +1,6 @@
 # Build status
 
-Updated October 17, 2026. The [incremental update](recent-update.md) adds one essay and refreshes two existing source reviews. Editorial changes, all 22 tests, the strict build, coverage/cache validation, and local browser checks are complete. Publication verification is pending.
+Updated October 17, 2026. The [incremental update](recent-update.md) adds one essay and refreshes two existing source reviews. Editorial changes, all 22 tests, the strict build, coverage/cache validation, and local browser checks are complete. The content update is deployed and verified; all 303 live HTTP checks passed.
 
 | Phase | State |
 |---|---|
@@ -12,7 +12,7 @@ Updated October 17, 2026. The [incremental update](recent-update.md) adds one es
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
 | Coverage, citations, links, source overlap | Complete; zero coverage, link, overlap, or staged/history findings |
-| Pages publishing and deployed browser check | September 30 release: 296 content pages and five assets HTTP 200; October update pending |
+| Pages publishing and deployed browser check | Complete; all 298 content pages and five assets HTTP 200; live OKR search verified |
 
 Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 

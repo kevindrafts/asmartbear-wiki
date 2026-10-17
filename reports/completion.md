@@ -2,7 +2,7 @@
 
 ## October 17 incremental update
 
-Added one reviewed essay and refreshed two source reviews after checking current homepage, RSS, and sitemap discovery. The collection now contains 227 notes; topic, guide, and reading-path counts are unchanged. See the [update report](recent-update.md) for scope and qualifications. All 22 tests passed (19 Python, three JavaScript), the strict build passed, and the complete coverage/cache audit reported zero errors for 227 notes. Browser checks verified the new note's source date, original-source link, backlinks, search result for `OKRs`, and mobile layout and navigation at 390 × 844. Publication verification is pending; the evidence below records the original September release.
+Added one reviewed essay and refreshed two source reviews after checking current homepage, RSS, and sitemap discovery. The collection now contains 227 notes; topic, guide, and reading-path counts are unchanged. See the [update report](recent-update.md) for scope and qualifications. All 22 tests passed (19 Python, three JavaScript), the strict build passed, and the complete coverage/cache audit reported zero errors for 227 notes. Browser checks verified the new note's source date, original-source link, backlinks, search result for `OKRs`, and mobile layout and navigation at 390 × 844. The content update was published in commit `495e2ba`; [deployment 39057570993](https://github.com/kevindrafts/asmartbear-wiki/actions/runs/39057570993) succeeded. The live-site audit passed all 303 HTTP checks (298 content pages and five assets), found all 298 pages in search, and reported zero errors. Live browser search for `OKRs` opened the new note with the correct date and source link. The evidence below the October section records the original September release.
 
 Commands for this update:
 
@@ -15,7 +15,10 @@ node --test tests/search.test.cjs
 .venv/bin/python -m scripts.validate --require-complete --cache-audit
 .venv/bin/python -m scripts.review_git --cache-audit
 git diff --cached --check
+.venv/bin/python -m scripts.check_deployment
 ```
+
+Staged-file and existing-history audits reported zero findings. The final verification-report refresh is published through the same validated Pages workflow.
 
 The deployment checker now derives its expected article count from the catalog, so it can reject the old 226-note homepage after this update.
 
