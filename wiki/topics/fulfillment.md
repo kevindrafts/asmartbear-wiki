@@ -8,6 +8,8 @@ Purpose also operates at different levels. The positive change a company seeks, 
 
 These are reflective criteria, not a guarantee of happiness or a substitute for economic viability. They help specify what a viable business is meant to support.
 
+In [Appointmed](../../processed/smart-bear-live-e04.md), Sherry Walling separates the founder's personal mission from the healthy company's next objective. Her proposed exercise starts with specific moments of energy and depletion, then looks for patterns; Cohen suggests exploring the consequences of greater ambition before choosing it. **Editorial connection:** A business can keep serving customers well while its founder investigates a new source of meaning. [E04, 1:17:44, 1:35:27, and 1:54:29](https://smartbearlive.transistor.fm/4/transcript).
+
 ## Source notes
 
 - [Finding Fulfillment](../../processed/fulfillment.md)

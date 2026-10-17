@@ -6,6 +6,8 @@ Comparison often worsens the problem by treating different starting conditions a
 
 **Editorial application:** Separate evidence about the venture from a global verdict on personal worth. Use peers, customer evidence, and explicit decisions to regain perspective; preserve interests and relationships beyond the company. The essays are firsthand reflections, not clinical assessment or treatment. Their encouragement to persist does not establish that every venture should continue, or that enduring severe strain is a condition of deserving success. [Revisiting the venture and the role](https://longform.asmartbear.com/emotional-rollercoaster/).
 
+The [Appointmed conversation](../../processed/smart-bear-live-e04.md) adds Sherry Walling's suggestion to seek informed, trusted feedback instead of treating every public reaction as equally useful. She treats recognition as one source of motivation and encourages reflection on the founder's own purpose. **Editorial connection:** Specify whose judgment helps and what it can assess; praise about company performance does not settle every personal question. [E04, 38:26–39:02 and 1:00:29–1:02:03](https://smartbearlive.transistor.fm/4/transcript).
+
 ## Source notes
 
 - [Impostor Syndrome: Why I felt like a fraud, and how I overcame it](../../processed/impostor-syndrome.md)

@@ -8,6 +8,8 @@ A segment also needs a reachable purchasing path. Enthusiasm without urgency lea
 
 The [PostPlanify conversation](../../processed/smart-bear-live-e05.md) makes the workflow boundary tangible: an agency creating content with client approval needs a different product from one where clients also do the authoring. Cohen and Laura Roeder help Hasan Cagli choose a direction; the call does not demonstrate its subsequent success. **Editorial connection:** Test an ICP through permissions, support, and daily work, not just the industry label. [E05 workflow](https://smartbearlive.transistor.fm/5/transcript#t=1h25m35s).
 
+Two further conversations test whether a customer description is actionable. In [Ymir](../../processed/smart-bear-live-e06.md), the target becomes agencies whose teams already want AWS infrastructure and need help operating it. In [NaiL](../../processed/smart-bear-live-e07.md), Dan Martell suggests observable clues correlated with early technology adoption. **Editorial connection:** Separate a defining buying circumstance from an imperfect signal used to find prospects; validate the latter instead of turning it into a universal filter. [E06 target](https://smartbearlive.transistor.fm/6/transcript#t=1h24m49s); [E07 signals](https://smartbearlive.transistor.fm/7/transcript#t=24m42s).
+
 ## Source notes
 
 - [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](../../processed/icp-ideal-customer-persona.md)

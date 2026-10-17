@@ -10,6 +10,8 @@ Customers' motivation also matters. Buying because the product is useful or belo
 
 Two podcast cases sharpen the distinction between cost and customer value. In [PostPlanify](../../processed/smart-bear-live-e05.md), Cohen and Laura Roeder explore a charging unit that follows an agency's clients and workflow. In [DevriX](../../processed/smart-bear-live-e09.md), Cohen distinguishes avoidable idle time from capacity deliberately reserved for variable demand, which must be covered by the price. **Editorial connection:** Identify the service or unit the customer recognizes before converting internal costs into a bill. Neither proposed packaging nor utilization level is a universal rule. [E05](https://smartbearlive.transistor.fm/5/transcript#t=1h42m26s); [E09](https://smartbearlive.transistor.fm/9/transcript#t=56m4s).
 
+[Ymir](../../processed/smart-bear-live-e06.md) connects price to the credibility and delivery of the offer. Adams distinguishes a small entry plan with an expansion path from selling the entire service indefinitely at a low flat price. The hosts then explore a more expensive software-and-training package; neither the suggested amounts nor willingness expressed by one existing customer establish the final price. [E06 pricing model](https://smartbearlive.transistor.fm/6/transcript#t=28m57s); [Offer redesign](https://smartbearlive.transistor.fm/6/transcript#t=40m10s).
+
 ## Source notes
 
 - [Pricing determines your business model](../../processed/pricing-determines-your-business-model.md)

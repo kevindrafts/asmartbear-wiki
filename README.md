@@ -1,10 +1,10 @@
 # A Smart Bear — Unofficial Field Notes
 
-An independent, source-linked reading companion to Jason Cohen's company-building essays and selected Smart Bear Live conversations.
+An independent, source-linked reading companion to Jason Cohen's company-building essays and Smart Bear Live conversations.
 
 **Website:** https://kevindrafts.github.io/asmartbear-wiki/
 
-232 reviewed notes: 227 articles and mailbags plus five podcast conversations, with 43 topics, 10 decision guides, and five reading paths. Every included source was read in full; originals remain linked, not republished. The collection, checked October 17, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [essay update](reports/recent-update.md) adds one essay and refreshes two existing sources. The [podcast update](reports/podcast-update.md) adds episodes 2, 3, 5, 8, and 9. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
+236 reviewed notes: 227 articles and mailbags plus nine podcast conversations, with 43 topics, 10 decision guides, and five reading paths. Every included source was read in full; originals remain linked, not republished. The collection, checked October 17, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [essay update](reports/recent-update.md) adds one essay and refreshes two existing sources. The [podcast update](reports/podcast-update.md) covers all nine listed episodes, including the follow-up additions of episodes 1, 4, 6, and 7. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
 
 ## Build and check
 
@@ -47,4 +47,4 @@ Podcasts have a separate metadata catalog and external review ledger so blog ing
 
 ## Rights and affiliation
 
-Unofficial; not affiliated with or endorsed by Jason Cohen, A Smart Bear, SmartBear, WP Engine, or podcast guests. Original project code is [MIT](LICENSE); original editorial content is [CC BY 4.0](CONTENT-LICENSE.md), with explicit third-party exclusions. Underlying articles and conversations remain with their respective rights holders. The [official workshops](https://skills.asmartbear.com/) are linked, not copied. No scheduled updates are configured.
+Unofficial; not affiliated with or endorsed by Jason Cohen, A Smart Bear, SmartBear, WP Engine, or podcast guests. Original project code is [MIT](LICENSE); original editorial content is [CC BY 4.0](CONTENT-LICENSE.md), with explicit third-party exclusions. Underlying articles and conversations remain with their respective rights holders. The [official workshops](https://skills.asmartbear.com/) are linked, not copied. Weekly updates were authorized on October 17, 2026 for Sundays at 3 AM America/Chicago through the local Codex app; the GitHub workflow itself has no scheduled crawl.

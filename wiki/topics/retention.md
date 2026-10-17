@@ -8,6 +8,8 @@ A constant loss rate acts on a growing installed base. Under fixed new monthly r
 
 In the [Podsqueeze discussion](../../processed/smart-bear-live-e03.md), Craig Hewitt distinguishes a hosting bill that can continue after a show ends from production software whose usefulness stops with new episodes. **Editorial connection:** Separate churn caused by an unsuccessful product experience from churn caused by the disappearance of the customer's job. The agency alternative discussed on the call is a hypothesis about a more persistent need, not a verified growth outcome. [E03](https://smartbearlive.transistor.fm/3/transcript#t=13m43s).
 
+The [ScreenshotOne conversation](../../processed/smart-bear-live-e01.md) separates temporary projects from customers with an ongoing use. Cohen proposes an early-life cohort alongside longer-lived users so that expected project completion does not obscure recurring-use retention. **Editorial connection:** An aggregate cancellation rate can describe the growth constraint without explaining which customer relationship should change. [E01 segmentation](https://smartbearlive.transistor.fm/1/transcript#t=29m29s).
+
 ## Source notes
 
 - [The roadmap to Product/Market Fit (PMF)… maybe](../../processed/product-market-fit-formula.md)

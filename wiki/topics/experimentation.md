@@ -8,6 +8,8 @@ Disciplined measurement should not constrain every experiment to tiny variants. 
 
 Management processes deserve experiments too. Cohen's OKR experience challenges explanations that blame every failure on execution while refusing to specify where the method is unsuitable. A trial can reveal whether to adapt or replace a framework. **Editorial connection:** As with customer experiments, decide what evidence could change your commitment; organizational fit is not established by a framework's reputation. [Frameworks as trials](https://longform.asmartbear.com/you-didnt-do-it-right/); [Evidence behind an existing decision](https://longform.asmartbear.com/strong-opinions-weakly-held/).
 
+In [ScreenshotOne](../../processed/smart-bear-live-e01.md), Cohen distinguishes spending to understand a possible AI-related market from proving an efficient acquisition channel. He proposes protecting several weeks for outreach and interviews while preserving essential operations, with flexibility for useful calls already scheduled. **Editorial connection:** Make the question and commitment explicit; a discovery budget buys evidence, not a claim of scalable demand. [E01 spending](https://smartbearlive.transistor.fm/1/transcript#t=1h55m31s); [Deadline qualification](https://smartbearlive.transistor.fm/1/transcript#t=2h0m32s).
+
 ## Source notes
 
 - [“You didn’t do it right”](../../processed/you-didnt-do-it-right.md)

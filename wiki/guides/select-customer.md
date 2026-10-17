@@ -16,6 +16,8 @@ For the author's guided process, use the [official customer-profile workshop](ht
 
 **Editorial exercise:** Follow [E08](../../processed/smart-bear-live-e08.md) to split an audience hypothesis into neutral questions. Then use [E05](../../processed/smart-bear-live-e05.md) to describe who creates and approves the work, and how that affects product scope. Keep a written list of what is known versus what the next interviews must establish. [E08](https://smartbearlive.transistor.fm/8/transcript#t=46m49s); [E05](https://smartbearlive.transistor.fm/5/transcript#t=1h25m35s).
 
+**Editorial exercise:** Use [NaiL](../../processed/smart-bear-live-e07.md) to distinguish a target's defining traits from public clues that might identify it. Then ask whether the product has a concrete advantage for that target, beyond its category label. A promising signal helps choose whom to investigate; it does not replace a buying conversation. [E07 signals](https://smartbearlive.transistor.fm/7/transcript#t=24m42s); [Differentiation](https://smartbearlive.transistor.fm/7/transcript#t=57m29s).
+
 ## Source notes
 
 - [Your target market isn’t demographic](../../processed/target-market.md)

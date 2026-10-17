@@ -10,6 +10,10 @@
 
 **Leave with:** A decision or a bounded learning step, an owner, a review point, and explicit continuation criteria. No retrospective success story can tell you with certainty which path this venture will take.
 
+## Worked conversations
+
+**Editorial comparison:** [ScreenshotOne](../../processed/smart-bear-live-e01.md) considers several business paths and a protected discovery period before choosing among them. [Appointmed](../../processed/smart-bear-live-e04.md) has a healthy business; its founder's question is partly about personal purpose. Separate the commercial constraint from the desired life and role before calling either situation a reason to pivot. [E01 exploration](https://smartbearlive.transistor.fm/1/transcript#t=1h47m31s); [E04 personal and company missions, 1:17:44](https://smartbearlive.transistor.fm/4/transcript).
+
 ## Source notes
 
 - [Sunk Costs: An invisible, pervasive peril](../../processed/sunk-costs.md)

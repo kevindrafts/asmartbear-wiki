@@ -6,6 +6,8 @@ The buyer and user may also differ. A tool that removes daily friction can acqui
 
 **Editorial application:** Identify the user, sponsor, budget owner, approval path, alternative, and present trigger. Demonstrate the outcome in the customer's language. Negotiate terms with an understanding of delivery cost and trust, rather than assuming every objection means the list price must fall. [Consistent pricing rules](https://longform.asmartbear.com/discount-gambit/); [Terms that justify exceptional work](https://longform.asmartbear.com/say-yes/).
 
+In [NaiL](../../processed/smart-bear-live-e07.md), a brand president's interest does not settle the holding company's approval process. Cohen asks the founder to learn who authorizes a pilot and what is preventing that decision; Dan Martell discusses consultative qualification. They also distinguish expansion within the holding company from diversification beyond its control. **Editorial connection:** Track both the purchase process and common ownership when judging a pipeline's progress and risk. [E07 authority](https://smartbearlive.transistor.fm/7/transcript#t=38m27s); [Concentration](https://smartbearlive.transistor.fm/7/transcript#t=50m56s).
+
 ## Source notes
 
 - [“ROI” is the wrong way to sell your product](../../processed/roi-selling.md)

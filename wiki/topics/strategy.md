@@ -6,6 +6,8 @@ Coherence emerges when choices reinforce each other. A small core and an extensi
 
 **Editorial application:** Write the target customer, the reason to choose you, the capability making that promise credible, and the cost you accept. Test those decisions against actual product, sales, and staffing choices. Then translate the direction into a current plan with obstacles, actions, evidence, and deliberate exclusions. A clear plan executes strategy; it does not replace it. [From direction to work](https://longform.asmartbear.com/strategic-planning/).
 
+In [Ymir](../../processed/smart-bear-live-e06.md), Cohen and Bryce Adams examine the tension between a critical infrastructure promise, a very low price, and reliance on one person. They propose combining software with paid implementation and training, so Alexander's expertise helps the customer's team operate independently. **Editorial connection:** Resolving a contradiction may require changing what is sold, not merely improving its description. This is a proposed business design, not evidence of a successful pivot. [E06 contradiction](https://smartbearlive.transistor.fm/6/transcript#t=24m58s); [Revised offer](https://smartbearlive.transistor.fm/6/transcript#t=40m10s).
+
 ## Source notes
 
 - [What makes a strategy great](../../processed/great-strategy.md)

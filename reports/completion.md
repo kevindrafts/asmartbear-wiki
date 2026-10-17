@@ -110,7 +110,7 @@ All bodies, footnotes, extracted table cells, alt text, and captions were read. 
 
 ## October 17 podcast batch
 
-The counts above describe the original September release. Following the [October essay update](recent-update.md), this batch adds five reviewed Smart Bear Live conversations (episodes 2, 3, 5, 8, and 9). Current coverage is **232 notes: 227 articles and mailbags plus five episodes**, with 43 topics, 10 guides, and five paths. Full reading covered 140,079 extracted transcript words including speaker labels and timestamps. Nine transcripts were located; four remain outside this reviewed batch. See [podcast update](podcast-update.md).
+The counts above describe the original September release. Following the [October essay update](recent-update.md), this batch adds five reviewed Smart Bear Live conversations (episodes 2, 3, 5, 8, and 9). Coverage at that point was **232 notes: 227 articles and mailbags plus five episodes**, with 43 topics, 10 guides, and five paths. Full reading covered 140,079 extracted transcript words including speaker labels and timestamps. Nine transcripts were located; four remain outside this reviewed batch. See [podcast update](podcast-update.md).
 
 The verification commands in the earlier test section were rerun for this batch through the strict build and cache audit. **25 tests passed: 22 Python and three JavaScript.** New synthetic tests cover podcast catalog separation, participant metadata, official transcript URLs, review status, and source identity across timestamps. The full validator reported zero errors. All 22 unique cited timestamps exist in the cached official HTML.
 
@@ -126,3 +126,9 @@ gh run watch 39059148772 --repo kevindrafts/asmartbear-wiki --exit-status --inte
 ```
 
 This evidence update is published through the same validated workflow. Current audit JSON files record the combined article and podcast collection. No source payloads entered Git, the site, or its search index. No scheduled updates were created.
+
+## October 17 podcast completion follow-up
+
+The follow-up adds episodes 1, 4, 6, and 7 after complete reading of 105,088 additional extracted words. Current coverage is **236 notes: 227 articles and mailbags plus all nine listed Smart Bear Live episodes**, totaling 245,167 podcast words including labels and timestamps. Nine topic pages and three guides gain source-linked synthesis. The official episode list was rechecked and still listed nine episodes. See [podcast update](podcast-update.md) for reading and transcript limitations.
+
+All 25 tests, the strict build, and the complete-corpus/cache audit pass with 236 notes and zero errors. All 41 unique cited transcript anchors match the official cached HTML, including 19 for the new episodes. Complete-container extraction checks passed for all four transcripts. Publication verification is pending. The earlier no-schedule statements describe their historical batches; the user has since authorized a weekly Sunday 3 AM America/Chicago task in the local Codex app.

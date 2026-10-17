@@ -14,6 +14,8 @@
 
 **Editorial comparison:** [Podsqueeze](../../processed/smart-bear-live-e03.md) tests whether the recurring need disappears when customers stop producing shows. [DropInBlog](../../processed/smart-bear-live-e02.md) explores expansion from an established business into a better-performing cohort. Use them to practice identifying the mechanism before borrowing the tactic; neither episode reports the outcome of the proposed plan. [E03](https://smartbearlive.transistor.fm/3/transcript#t=13m43s); [E02 qualification](https://smartbearlive.transistor.fm/2/transcript#t=1h28m11s).
 
+[ScreenshotOne](../../processed/smart-bear-live-e01.md) adds a third case: separate customers buying a temporary project from those with recurring use, then test whether a candidate market could support the desired expansion. [Ymir](../../processed/smart-bear-live-e06.md) has a different problem: loyal users but an offer whose price, dependency, and target buyer conflict. **Editorial exercise:** Compare these mechanisms before choosing retention work, market discovery, or a redesigned offer. [E01](https://smartbearlive.transistor.fm/1/transcript#t=29m29s); [E06](https://smartbearlive.transistor.fm/6/transcript#t=24m58s).
+
 ## Source notes
 
 - [Who’s lying?](../../processed/whos-lying.md)

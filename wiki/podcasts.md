@@ -1,12 +1,16 @@
 # Smart Bear Live: conversations in practice
 
-Five selected conversations from the 2026 restart, read in full and distilled into original notes. These show ideas being questioned and revised with founders; they are not follow-up evidence that the proposed changes worked. The [official show](https://smartbearlive.transistor.fm/) provides the audio and complete transcripts.
+All nine conversations listed by the official show on October 17, 2026, read in full and distilled into original notes. These show ideas being questioned and revised with founders; they are not follow-up evidence that the proposed changes worked. The [official show](https://smartbearlive.transistor.fm/) provides the audio and complete transcripts.
 
 | Start with | Conversation | Primary source |
 |---|---|---|
+| Testing a market before choosing the next direction | [E01: ScreenshotOne, with Dmytro Krasun](../processed/smart-bear-live-e01.md) · July 23 | [Transcript](https://smartbearlive.transistor.fm/1/transcript) |
 | Expanding an established business | [E02: DropInBlog, with Rob Walling and Jesse Schoberg](../processed/smart-bear-live-e02.md) · August 16 | [Transcript](https://smartbearlive.transistor.fm/2/transcript) |
 | Diagnosing a growth plateau | [E03: Podsqueeze, with Craig Hewitt, Tiago Ferreira, and João Amaro](../processed/smart-bear-live-e03.md) · August 23 | [Transcript](https://smartbearlive.transistor.fm/3/transcript) |
+| Finding purpose after the business becomes stable | [E04: Appointmed, with Sherry Walling and Patrik Inzinger](../processed/smart-bear-live-e04.md) · August 30 | [Transcript](https://smartbearlive.transistor.fm/4/transcript) |
 | Committing to a customer and workflow | [E05: PostPlanify, with Laura Roeder and Hasan Cagli](../processed/smart-bear-live-e05.md) · September 6 | [Transcript](https://smartbearlive.transistor.fm/5/transcript) |
+| Aligning the offer with the founder’s strengths | [E06: Ymir, with Bryce Adams and Carl Alexander](../processed/smart-bear-live-e06.md) · September 13 | [Transcript](https://smartbearlive.transistor.fm/6/transcript) |
+| Selling beyond one major customer | [E07: NaiL, with Dan Martell and George Paladichuk](../processed/smart-bear-live-e07.md) · September 20 | [Transcript](https://smartbearlive.transistor.fm/7/transcript) |
 | Preparing useful customer interviews | [E08: PainPointy, with Rison Simon](../processed/smart-bear-live-e08.md) · September 27 | [Transcript](https://smartbearlive.transistor.fm/8/transcript) |
 | Changing an agency or considering a sale | [E09: DevriX, with Jon Sturgeon and Mario Peshev](../processed/smart-bear-live-e09.md) · October 4 | [Transcript](https://smartbearlive.transistor.fm/9/transcript) |
 
@@ -20,8 +24,10 @@ Read E03 and E02 together with [stalled growth](guides/stalled-growth.md). The f
 
 E09 adds an operating question to [pricing](topics/pricing.md) and [exits](topics/exits.md): is reserve capacity part of the service being sold, and does the founder want to build the organization required for the next stage? Its acquisition discussion remains a set of possible buyer motivations. [E09 pricing](https://smartbearlive.transistor.fm/9/transcript#t=56m4s); [E09 future role](https://smartbearlive.transistor.fm/9/transcript#t=1h31m28s).
 
+E01 and E06 extend the growth cases: the former tests demand beyond short projects; the latter redesigns an offer around the founder’s expertise. E07 adds the need to prove repeatability beyond one large buyer. E04 asks a different question—what the founder wants next when the company is already healthy. **Editorial reading suggestion:** Use [strategy](topics/strategy.md), [sales](topics/sales.md), and [fulfillment](topics/fulfillment.md) to separate those decisions. [E01](https://smartbearlive.transistor.fm/1/transcript#t=29m29s); [E06](https://smartbearlive.transistor.fm/6/transcript#t=40m10s); [E07](https://smartbearlive.transistor.fm/7/transcript#t=57m29s); [E04, 1:17:44](https://smartbearlive.transistor.fm/4/transcript).
+
 ## Reading limits
 
 These are multi-speaker conversations. Notes attribute guests' contributions separately and retain consequential disagreements. The official transcripts have not been checked against the audio; E05 in particular has inconsistent timestamp ordering and some speaker labels. Business figures are participant reports, and suggested tactics or prices are not demonstrated outcomes. Follow the source when exact wording matters.
 
-Nine official episode transcripts were located on October 17, 2026. Only the five listed here have been fully read and reviewed for this wiki. Episodes 1, 4, 6, and 7 remain outside this editorial batch; their availability is not a completed review. See the [update report](../reports/podcast-update.md) and [source catalog](../processed/index.md).
+All nine official transcripts located on October 17, 2026 have now been fully read and reviewed. E01 and E04 include printed times beyond the episode pages’ listed audio durations; E04 has no clickable time anchors, so its citations give text timestamps alongside full-transcript links. These are transcript references, not verified audio seek points. See the [update report](../reports/podcast-update.md) and [source catalog](../processed/index.md).
