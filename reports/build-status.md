@@ -1,6 +1,6 @@
 # Build status
 
-Updated October 17, 2026. The [podcast follow-up](podcast-update.md) adds the remaining four listed episodes (1, 4, 6, and 7), bringing the wiki to 236 reviewed sources: 227 articles and mailbags plus all nine discovered Smart Bear Live transcripts. Nine topics and three guides gain connections. Full reading, original notes, all 25 tests, the strict build, and complete-corpus/cache validation are complete; publication verification is pending.
+Updated October 17, 2026. The [podcast follow-up](podcast-update.md) adds the remaining four listed episodes (1, 4, 6, and 7), bringing the wiki to 236 reviewed sources: 227 articles and mailbags plus all nine discovered Smart Bear Live transcripts. Nine topics and three guides gain connections. Full reading, original notes, all 25 tests, the strict build, complete-corpus/cache validation, and publication verification are complete. All 314 live HTTP checks pass.
 
 | Phase | State |
 |---|---|
@@ -13,7 +13,7 @@ Updated October 17, 2026. The [podcast follow-up](podcast-update.md) adds the re
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
 | Coverage, citations, links, source overlap | Complete; 236 reviewed notes, zero errors; 41 transcript anchors verified |
-| Pages publishing and deployed browser check | Follow-up publication pending; earlier release verified |
+| Pages publishing and deployed browser check | Complete; content commit c29a362 deployed, 314 HTTP checks pass; live index and E04 inspected. Browser search retained the prior cached index immediately after deployment. |
 
 Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 
