@@ -1,6 +1,6 @@
 site_name: A Smart Bear — Unofficial Field Notes
 site_url: https://kevindrafts.github.io/asmartbear-wiki/
-site_description: Independent, source-linked notes on Jason Cohen's company-building essays.
+site_description: Independent, source-linked notes on Jason Cohen's essays and Smart Bear Live conversations.
 repo_url: https://github.com/kevindrafts/asmartbear-wiki
 edit_uri: ''
 docs_dir: site/docs
@@ -25,7 +25,8 @@ nav:
   - Topics: wiki/topics/index.md
   - Decision guides: wiki/guides/index.md
   - Reading paths: wiki/reading-paths/index.md
-  - Article catalog: processed/index.md
+  - Smart Bear Live: wiki/podcasts.md
+  - Source catalog: processed/index.md
   - Coverage: reports/coverage.md
   - Attribution: ATTRIBUTION.md
   - Editorial license: CONTENT-LICENSE.md

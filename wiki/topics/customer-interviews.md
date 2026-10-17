@@ -6,6 +6,8 @@ Sample selection changes what you can learn. Existing customers explain useful o
 
 **Editorial application:** Write the decision the interview will inform, recruit people who experienced the relevant situation, record surprises, and distinguish observed behavior from hypothetical intent. A repeated request is evidence of a need, not an instruction to implement the customer's exact solution. Continue with the [official interview workshop](https://skills.asmartbear.com/workshops/customer-interviews/).
 
+The [PainPointy interview preparation](../../processed/smart-bear-live-e08.md) shows the method being revised in conversation: separate the hypothesized role, segment, and outcome, then ask about current inputs and how ideas are judged. Cohen and Rison Simon have not yet collected the interview results. **Editorial connection:** A well-formed question improves the test; it does not validate the belief being tested. [E08 method](https://smartbearlive.transistor.fm/8/transcript#t=8m36s); [neutral prompts](https://smartbearlive.transistor.fm/8/transcript#t=46m49s).
+
 ## Source notes
 
 - [The Iterative-Hypothesis customer development method](../../processed/customer-development.md)

@@ -6,6 +6,8 @@ A constant loss rate acts on a growing installed base. Under fixed new monthly r
 
 **Editorial application:** Segment retention by customer fit and cohort, investigate unsuccessful experiences against successful ones, and connect improvements to observable behavior. Avoid attributing a small aggregate churn change to one feature when delays and other causes make that claim unidentifiable. Contract duration can change collections without proving loyalty. [Attribution limits](https://longform.asmartbear.com/unmeasurable-metrics/); [Annual-payment selection effects](https://longform.asmartbear.com/annual-prepay/).
 
+In the [Podsqueeze discussion](../../processed/smart-bear-live-e03.md), Craig Hewitt distinguishes a hosting bill that can continue after a show ends from production software whose usefulness stops with new episodes. **Editorial connection:** Separate churn caused by an unsuccessful product experience from churn caused by the disappearance of the customer's job. The agency alternative discussed on the call is a hypothesis about a more persistent need, not a verified growth outcome. [E03](https://smartbearlive.transistor.fm/3/transcript#t=13m43s).
+
 ## Source notes
 
 - [The roadmap to Product/Market Fit (PMF)… maybe](../../processed/product-market-fit-formula.md)

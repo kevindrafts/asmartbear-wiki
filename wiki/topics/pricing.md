@@ -8,6 +8,8 @@ Customers' motivation also matters. Buying because the product is useful or belo
 
 **Editorial application:** Test price with the intended segment and delivery model, including acquisition and support costs. Treat historical price bands as examples and preserve trust when changing terms. The [official skills site](https://skills.asmartbear.com/) links the author's pricing tools.
 
+Two podcast cases sharpen the distinction between cost and customer value. In [PostPlanify](../../processed/smart-bear-live-e05.md), Cohen and Laura Roeder explore a charging unit that follows an agency's clients and workflow. In [DevriX](../../processed/smart-bear-live-e09.md), Cohen distinguishes avoidable idle time from capacity deliberately reserved for variable demand, which must be covered by the price. **Editorial connection:** Identify the service or unit the customer recognizes before converting internal costs into a bill. Neither proposed packaging nor utilization level is a universal rule. [E05](https://smartbearlive.transistor.fm/5/transcript#t=1h42m26s); [E09](https://smartbearlive.transistor.fm/9/transcript#t=56m4s).
+
 ## Source notes
 
 - [Pricing determines your business model](../../processed/pricing-determines-your-business-model.md)

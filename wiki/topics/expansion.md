@@ -6,6 +6,8 @@ A large customer's purchase does not necessarily signal an enterprise opportunit
 
 **Editorial application:** Identify the capability you can reuse, the buyer whose needs genuinely overlap, and every function that must change. Distinguish a manageable extension from several simultaneous rebuilds. A feasibility map does not establish market attractiveness; combine it with evidence of demand and an honest assessment of whether more growth serves the owner's goals. [Expansion and the choice to grow](https://longform.asmartbear.com/growth-asymptote/).
 
+The [DropInBlog conversation](../../processed/smart-bear-live-e02.md) adds the organizational requirement: Cohen proposes a named owner, protected budget, and separate measures for each new growth effort. Without those, current customer demands can repeatedly displace the experiment. **Editorial connection:** The adjacency map identifies what must change; ownership and resources make that change executable. These are proposed arrangements, not reported results. [E02](https://smartbearlive.transistor.fm/2/transcript#t=1h48m19s).
+
 ## Source notes
 
 - [Adjacency Matrix: How to expand after PMF](../../processed/adjacency.md)

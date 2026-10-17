@@ -10,8 +10,9 @@ import markdown
 import yaml
 from bs4 import BeautifulSoup
 from scripts.ingest import validate_dates, canonical_groups, CACHE
+from scripts.catalog import load_sources
 ROOT = Path(__file__).resolve().parents[1]
-PRIMARY = re.compile(r'https://longform\.asmartbear\.com/[a-z0-9-]+/')
+PRIMARY = re.compile(r'https://(?:longform\.asmartbear\.com/[a-z0-9-]+/|smartbearlive\.transistor\.fm/[1-9][0-9]*/transcript)(?=[#)\s]|$)')
 
 def validate_note(text, url):
     errors=[]
@@ -34,7 +35,15 @@ def validate_catalog(rows):
         if not validate_dates(r.get('published'),r.get('modified'),r.get('sitemap_lastmod')): errors.append(slug+': invalid date')
         if r.get('read_status')!='complete' or r.get('note_status')!='reviewed' or r.get('status')!='fetched': errors.append(slug+': incomplete review/fetch')
         if not re.fullmatch('[0-9a-f]{64}',r.get('body_sha256','')) or r.get('body_sha256')!=r.get('reviewed_body_sha256'): errors.append(slug+': review hash mismatch')
-        if r.get('classification') not in ('article','mailbag'): errors.append(slug+': invalid included classification')
+        if r.get('classification') not in ('article','mailbag','podcast'): errors.append(slug+': invalid included classification')
+        if r.get('classification') == 'podcast':
+            people = r.get('participants')
+            if not isinstance(people, list) or not people or not all(isinstance(p, str) and p.strip() for p in people):
+                errors.append(slug+': missing podcast participants')
+            episode = r.get('episode')
+            if not isinstance(episode, int) or episode < 1 or r.get('canonical_url') != f'https://smartbearlive.transistor.fm/{episode}/transcript':
+                errors.append(slug+': invalid official transcript URL')
+            if r.get('source_type') != 'podcast': errors.append(slug+': inconsistent podcast type')
         if any(k in r for k in ('body','html','images','tables','text')): errors.append(slug+': source payload in catalog')
     for url, aliases in canonical_groups(rows).items():
         if len(aliases)>1: errors.append('duplicate canonical: '+url)
@@ -87,7 +96,7 @@ def leak_findings(text, sources, minimum=30):
 
 def run(require_complete=False, cache_audit=False):
     errors=[]
-    rows=[json.loads(s) for s in (ROOT/'catalog/articles.jsonl').read_text().splitlines()]
+    rows=load_sources(ROOT)
     errors+=validate_catalog(rows)
     expected={r['id'] for r in rows};actual={p.stem for p in (ROOT/'processed').glob('*.md')}
     if require_complete and actual!=expected: errors.append('note coverage mismatch: '+repr(sorted(actual^expected)))
@@ -96,8 +105,10 @@ def run(require_complete=False, cache_audit=False):
         if not p.exists(): continue
         text=p.read_text();errors += [r['id']+': '+e for e in validate_note(text,r['canonical_url'])]
         meta=yaml.safe_load(text.split('---',2)[1])
-        for nk,rk in [('source_sha256','body_sha256'),('published','published'),('modified','modified'),('topics','tags'),('title','title')]:
+        for nk,rk in [('source','canonical_url'),('source_type','source_type'),('source_sha256','body_sha256'),('published','published'),('modified','modified'),('topics','tags'),('title','title')]:
             if meta.get(nk)!=r.get(rk): errors.append(r['id']+': note metadata mismatch '+nk)
+        if r['classification']=='podcast' and meta.get('participants')!=r['participants']:
+            errors.append(r['id']+': note metadata mismatch participants')
         for ref in r['synthesis_references']:
             if not (ROOT/ref).is_file(): errors.append(r['id']+': missing synthesis '+ref)
         prose=text.split('---',2)[2]
@@ -136,7 +147,7 @@ def run(require_complete=False, cache_audit=False):
             for d in json.loads(search.read_text())['docs']:
                 words=re.findall(r'\w+',d.get('text','').lower())
                 if any(tuple(words[i:i+30]) in index for i in range(max(0,len(words)-29))): errors.append('search source overlap: '+d['location'])
-    print(json.dumps({'articles':len(rows),'notes':len(actual),'topics':len(list((ROOT/'wiki/topics').glob('*.md'))),'guides':len(list((ROOT/'wiki/guides').glob('*.md'))),'errors':errors},indent=2))
+    print(json.dumps({'articles':sum(r['classification']!='podcast' for r in rows),'podcasts':sum(r['classification']=='podcast' for r in rows),'notes':len(actual),'topics':len(list((ROOT/'wiki/topics').glob('*.md'))),'guides':len(list((ROOT/'wiki/guides').glob('*.md'))),'errors':errors},indent=2))
     return bool(errors)
 
 if __name__=='__main__':

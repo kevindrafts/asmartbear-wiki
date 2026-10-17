@@ -3,6 +3,7 @@ import json
 import shutil
 from collections import defaultdict
 from pathlib import Path
+from scripts.catalog import load_sources
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'site/docs'
@@ -24,10 +25,12 @@ def stage():
     (DOCS / 'assets').mkdir()
     shutil.copyfile(ROOT / 'site/wiki.css', DOCS / 'assets/wiki.css')
     shutil.copyfile(ROOT / 'site/wiki.js', DOCS / 'assets/wiki.js')
-    rows = [json.loads(s) for s in (ROOT / 'catalog/articles.jsonl').read_text().splitlines()]
+    rows = load_sources(ROOT)
     topics = defaultdict(list)
-    catalog = '# Article catalog\n\nOriginal commentary, with direct links to every source. Dates below are source metadata.\n\n'
+    catalog = '# Source catalog\n\nOriginal commentary, with direct links to every source. Dates below are source metadata. For a guided introduction to the conversations, see [Smart Bear Live](../wiki/podcasts.md).\n\n## Articles and mailbags\n\n'
     for row in rows:
+        if row['classification'] == 'podcast' and '## Smart Bear Live episodes' not in catalog:
+            catalog += '\n## Smart Bear Live episodes\n\n'
         note = ROOT / 'processed' / (row['id'] + '.md')
         if note.exists():
             catalog += f"- [{row['title']}]({row['id']}.md) · Published {(row.get('published') or 'Unknown')[:10]} · Modified {(row.get('modified') or 'Unknown')[:10]} · {row['classification']}\n"
@@ -50,7 +53,7 @@ def stage():
         if not p.exists():
             raise ValueError('Missing authored topic: '+topic)
         with p.open('a') as out:
-            out.write('\n## Article notes\n\n')
+            out.write('\n## Related source notes\n\n')
             for r in sources:
                 out.write(f"- [{r['title']}](../../processed/{r['id']}.md)\n")
     for folder, heading in [('topics', 'Topics'), ('guides', 'Decision guides'), ('reading-paths', 'Reading paths')]:

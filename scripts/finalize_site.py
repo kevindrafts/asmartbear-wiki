@@ -2,9 +2,11 @@
 import json
 from collections import Counter
 from pathlib import Path
+from scripts.catalog import load_sources
 ROOT=Path(__file__).resolve().parents[1]
 def run():
     articles=[json.loads(s) for s in (ROOT/'catalog/articles.jsonl').read_text().splitlines()]
+    podcasts=[r for r in load_sources(ROOT) if r['classification']=='podcast']
     excluded=[json.loads(s) for s in (ROOT/'catalog/exclusions.jsonl').read_text().splitlines()]
     allrows=articles+excluded
     counts=Counter(r['classification'] for r in allrows)
@@ -24,6 +26,8 @@ def run():
         why=r.get('exclusion_reason','')
         if r.get('redirect_result'):why+=' '+r['redirect_result']+'. Destination: '+r['resolved_url']
         text+=f"| [{r['url']}]({r['url']}) | {r['classification']} | {why} |\n"
-    text+='\n## Editorial coverage\n\n227 concise source-linked notes, 43 cross-article topic pages, 10 practical decision guides, and five stage-based reading paths. The [article catalog](../processed/index.md) reaches every note. Every note connects to at least one substantive topic, and synthesis pages cite multiple primary sources.\n\nAll bodies, footnotes, extracted table cells, image alt text, and captions were read. Diagram meaning is described in original prose where relevant; diagrams themselves are not copied. This is not a claim that every decorative image was visually inspected. Explicit source discrepancies and technical qualifications are retained in the relevant notes (including color wheels, A/B statistics, forecasting, and revenue models).\n\nPublication, modification, and sitemap timestamps are distinct; source metadata is not independently verified publication history. All source evidence comes from one author. Historical examples are not current market data.\n'
+    text+=f'\n## Selected podcast coverage\n\nThe official Smart Bear Live episode list and transcript links were checked October 17, 2026: nine transcripts were located. {len(podcasts)} selected episodes were read in full and reviewed, totaling {sum(r["word_count"] for r in podcasts):,} extracted words including speaker labels and timestamps. Episodes 1, 4, 6, and 7 are not reviewed in this batch. This is a selected conversation collection, not complete podcast coverage. See [the podcast index](../wiki/podcasts.md) and [update report](podcast-update.md).\n\n'
+    text+='The podcast catalog and external review ledger are separate from blog discovery. Transcript wording, timestamps, and speaker labels have not been checked against audio. Notes preserve guest attribution, conditional advice, and known transcript inconsistencies.\n'
+    text+=f'\n## Editorial coverage\n\n{len(articles)+len(podcasts)} concise source-linked notes ({len(articles)} articles and mailbags, {len(podcasts)} podcast episodes), 43 topic pages, 10 practical decision guides, and five stage-based reading paths. The [source catalog](../processed/index.md) reaches every note. Every note connects to at least one substantive topic, and synthesis pages cite multiple primary sources.\n\nAll included article bodies, footnotes, extracted table cells, image alt text, and captions were read. Diagram meaning is described in original prose where relevant; diagrams themselves are not copied. This is not a claim that every decorative image was visually inspected. Explicit source discrepancies and technical qualifications are retained in the relevant notes (including color wheels, A/B statistics, forecasting, and revenue models).\n\nPublication, modification, and sitemap timestamps are distinct; source metadata is not independently verified publication history. Evidence comes from Cohen\'s essays and selected multi-speaker conversations, not independent corroboration. Historical examples and participant business figures are not current audited benchmarks.\n'
     (ROOT/'reports/coverage.md').write_text(text)
 if __name__=='__main__':run()

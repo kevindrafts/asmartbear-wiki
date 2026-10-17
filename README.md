@@ -1,10 +1,10 @@
 # A Smart Bear — Unofficial Field Notes
 
-An independent, source-linked reading companion to Jason Cohen's company-building essays.
+An independent, source-linked reading companion to Jason Cohen's company-building essays and selected Smart Bear Live conversations.
 
 **Website:** https://kevindrafts.github.io/asmartbear-wiki/
 
-227 reviewed article notes, 43 cross-article topics, 10 decision guides, and five reading paths. Every included article body was read in full; original sources remain linked, not republished. The collection, checked October 17, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [October update](reports/recent-update.md) adds one essay and refreshes two existing sources. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
+232 reviewed notes: 227 articles and mailbags plus five podcast conversations, with 43 topics, 10 decision guides, and five reading paths. Every included source was read in full; originals remain linked, not republished. The collection, checked October 17, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [essay update](reports/recent-update.md) adds one essay and refreshes two existing sources. The [podcast update](reports/podcast-update.md) adds episodes 2, 3, 5, 8, and 9. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
 
 ## Build and check
 
@@ -43,6 +43,8 @@ Full source captures are allowed **only** in `/Users/mordecai/.hermes/data/jason
 
 Ingestion resumes the frozen snapshot; it does not silently refresh existing cached sources. Updated source bodies require deliberate re-extraction and a new complete reading, then a matching reviewed hash. The ledger is atomic and records discovery, fetch, reading, review, and synthesis references. Editorial content is manually authored; no title-only summary generator is used. See [contributing](CONTRIBUTING.md) and [catalog schema](catalog/SCHEMA.md).
 
+Podcasts have a separate metadata catalog and external review ledger so blog ingestion cannot overwrite their reviews. The combined catalog feeds the build, validation, and leakage audits. Podcast transcripts are subject to the same external-only source boundary.
+
 ## Rights and affiliation
 
-Unofficial; not affiliated with or endorsed by Jason Cohen, A Smart Bear, SmartBear, or WP Engine. Original project code is [MIT](LICENSE); original editorial content is [CC BY 4.0](CONTENT-LICENSE.md), with explicit third-party exclusions. Jason Cohen retains rights in the underlying articles. The [official workshops](https://skills.asmartbear.com/) are linked, not copied. No scheduled updates are configured.
+Unofficial; not affiliated with or endorsed by Jason Cohen, A Smart Bear, SmartBear, WP Engine, or podcast guests. Original project code is [MIT](LICENSE); original editorial content is [CC BY 4.0](CONTENT-LICENSE.md), with explicit third-party exclusions. Underlying articles and conversations remain with their respective rights holders. The [official workshops](https://skills.asmartbear.com/) are linked, not copied. No scheduled updates are configured.

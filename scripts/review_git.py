@@ -3,6 +3,7 @@ import argparse,json,re,subprocess
 from pathlib import Path
 from scripts.ingest import CACHE
 from scripts.validate import inventory_errors
+from scripts.catalog import load_sources
 
 def git(*args):return subprocess.check_output(['git',*args])
 def run(cache_audit=False):
@@ -16,7 +17,7 @@ def run(cache_audit=False):
     patterns=[rb'-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----',rb'gh[pousr]_[A-Za-z0-9]{30,}',rb'github_pat_[A-Za-z0-9_]{40,}',rb'AKIA[A-Z0-9]{16}',rb'sk-(?:proj-)?[A-Za-z0-9_-]{40,}']
     grams=set();source_hashes=set()
     if cache_audit:
-        rows=[json.loads(s) for s in Path('catalog/articles.jsonl').read_text().splitlines()]
+        rows=load_sources()
         for r in rows:
             source=json.loads((CACHE/(r['id']+'.json')).read_text())
             words=re.findall(r'\w+',source['body'].lower())

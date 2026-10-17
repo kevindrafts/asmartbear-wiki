@@ -6,6 +6,8 @@ A segment also needs a reachable purchasing path. Enthusiasm without urgency lea
 
 **Editorial application:** Describe the buyer's situation, current alternative, trigger, constraints, and reason to prefer you. Test the description against wins, losses, and cancellations. Do not infer an enterprise strategy from a famous logo or treat the source's illustrative market multipliers as forecasts. Use the [official customer-profile workshop](https://skills.asmartbear.com/workshops/find-your-carol/) for Cohen's guided process.
 
+The [PostPlanify conversation](../../processed/smart-bear-live-e05.md) makes the workflow boundary tangible: an agency creating content with client approval needs a different product from one where clients also do the authoring. Cohen and Laura Roeder help Hasan Cagli choose a direction; the call does not demonstrate its subsequent success. **Editorial connection:** Test an ICP through permissions, support, and daily work, not just the industry label. [E05 workflow](https://smartbearlive.transistor.fm/5/transcript#t=1h25m35s).
+
 ## Source notes
 
 - [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](../../processed/icp-ideal-customer-persona.md)

@@ -107,3 +107,13 @@ gh run view 36735658976 --repo kevindrafts/asmartbear-wiki --json status,conclus
 The publicly reachable off-sitemap essays `growth-asymptote` and `swot` carry anomalous 2030 source dates, preserved with explicit caveats. The `price-low` source omits amounts in its question; the note does not reconstruct them. Nineteen legacy destinations remain deliberately outside longform scope; one additional legacy URL aliases an included article. All 20 checked legacy chains ended in HTTP 200. Robots-excluded JSON and `/ref/` endpoints were never requested.
 
 All bodies, footnotes, extracted table cells, alt text, and captions were read. Diagram meaning and source conflicts are preserved in original commentary; not every decorative image received pixel-level inspection. Multiple articles by one author are not independent corroboration, and third-party research cited by that author was not imported as another corpus. See [coverage](coverage.md) for the complete boundary and exclusion ledger.
+
+## October 17 podcast batch
+
+The counts above describe the original September release. Following the [October essay update](recent-update.md), this batch adds five reviewed Smart Bear Live conversations (episodes 2, 3, 5, 8, and 9). Current coverage is **232 notes: 227 articles and mailbags plus five episodes**, with 43 topics, 10 guides, and five paths. Full reading covered 140,079 extracted transcript words including speaker labels and timestamps. Nine transcripts were located; four remain outside this reviewed batch. See [podcast update](podcast-update.md).
+
+The verification commands in the earlier test section were rerun for this batch through the strict build and cache audit. **25 tests passed: 22 Python and three JavaScript.** New synthetic tests cover podcast catalog separation, participant metadata, official transcript URLs, review status, and source identity across timestamps. The full validator reported zero errors. All 22 unique cited timestamps exist in the cached official HTML.
+
+Local browser checks covered the podcast index, E08 source links and dates, search for PainPointy and opening its result, and mobile navigation at 390 × 844. The index and episode note fit the mobile viewport without horizontal page overflow. Transcript wording, speaker labels, and time alignment were not verified against audio; known E05 inconsistencies are documented.
+
+Staged/history review and deployment evidence are pending for this new batch.

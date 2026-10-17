@@ -10,6 +10,10 @@
 
 **Leave with:** A clear account of desired outcomes, acceptable risks, stakeholder concerns, and questions for diligence. A later good or bad market cannot prove the unchosen future was certain, and no essay predicts your emotional response.
 
+## Worked conversation
+
+In [E09](../../processed/smart-bear-live-e09.md), Cohen asks what Mario Peshev actually wants from a sale before exploring buyer types; Sturgeon questions founder dependence regardless of a transaction. **Editorial application:** Add the desired daily role and the buyer's specific reason to acquire to your comparison of futures. A plausible strategic buyer is still a hypothesis until there is transaction evidence. [Founder objectives](https://smartbearlive.transistor.fm/9/transcript#t=1h31m28s); [buyer uncertainty](https://smartbearlive.transistor.fm/9/transcript#t=1h42m59s).
+
 ## Source notes
 
 - [Rich vs. King in the Real World: Why I sold my company](../../processed/rich-vs-king-sold-company.md)

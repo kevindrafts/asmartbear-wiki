@@ -10,6 +10,10 @@
 
 **Leave with:** A diagnosed constraint, one consequential intervention, supporting measures, and a review point. Do not treat churn thresholds as universal or attribute every small retention change to one feature. [Attribution limits](https://longform.asmartbear.com/unmeasurable-metrics/).
 
+## Worked conversations
+
+**Editorial comparison:** [Podsqueeze](../../processed/smart-bear-live-e03.md) tests whether the recurring need disappears when customers stop producing shows. [DropInBlog](../../processed/smart-bear-live-e02.md) explores expansion from an established business into a better-performing cohort. Use them to practice identifying the mechanism before borrowing the tactic; neither episode reports the outcome of the proposed plan. [E03](https://smartbearlive.transistor.fm/3/transcript#t=13m43s); [E02 qualification](https://smartbearlive.transistor.fm/2/transcript#t=1h28m11s).
+
 ## Source notes
 
 - [Who’s lying?](../../processed/whos-lying.md)

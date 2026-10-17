@@ -11,3 +11,9 @@ Work only within the authorized repository and designated external cache. Read `
 7. When changing `site/wiki.js`, bump its query version in `mkdocs.yml` so existing readers fetch the updated asset. Verify desktop/mobile navigation and browser search, publish through the reviewed GitHub Pages workflow, then verify the deployed URL. Record exact commands and remaining gaps in `reports/completion.md`; keep `reports/build-status.md` current.
 
 Do not introduce scheduled crawling or updates without a new request. Build CI must never fetch copyrighted article bodies. An overlap scan is a useful guard, not a substitute for editorial review of paraphrase, attribution, and quotations.
+
+For selected podcasts, keep the full official transcript externally, read every
+utterance before writing, and preserve participant attribution and unresolved
+disagreements. Keep proposals distinct from outcomes and flag transcript
+uncertainties. Use the separate podcast catalog and external ledger described in
+`catalog/SCHEMA.md`; do not merge podcast discovery into the blog crawler.
