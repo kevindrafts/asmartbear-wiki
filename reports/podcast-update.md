@@ -28,4 +28,6 @@ All 25 tests pass (22 Python, three JavaScript). The strict MkDocs build and com
 
 The new synthetic tests were observed failing before implementation. They cover separate-catalog loading, podcast attribution metadata, official transcript URLs, pending-review rejection, and counting episodes rather than timestamp fragments as distinct sources. External-cache scanning covers all selected transcripts as well as the articles.
 
-Staged/history review and publication are the remaining steps. Final deployment evidence will be recorded here and in [completion](completion.md).
+Staged/history review passed with zero findings. Content commit `f18a4ac` was published by [deployment 39059148772](https://github.com/kevindrafts/asmartbear-wiki/actions/runs/39059148772), which independently passed tests, validation, and the strict build. All **310 live HTTP checks passed: 305 content pages and five assets**. All 305 pages are present in search. A live browser search for DevriX opened E09 with its source links, dates, and backlinks intact.
+
+Machine-readable results are in `reports/audit-results.json`, `reports/git-audit-results.json`, and `reports/deployment-audit.json`. This final evidence update uses the same validated publishing workflow. See [completion](completion.md) for commands and remaining scope qualifications.

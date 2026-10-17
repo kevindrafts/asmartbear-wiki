@@ -1,19 +1,19 @@
 # Build status
 
-Updated October 17, 2026. The earlier [essay update](recent-update.md) is deployed and verified. The new [podcast batch](podcast-update.md) adds five fully read Smart Bear Live episodes, a reading index, and connections in six topics and three guides. Editorial work, 25 tests, strict build, complete-corpus/cache validation, timestamp checks, and local browser checks are complete. Staged/history review and publication remain in progress.
+Updated October 17, 2026. The [podcast batch](podcast-update.md) adds five fully read Smart Bear Live episodes, a reading index, and connections in six topics and three guides. It is deployed and verified after the earlier [essay update](recent-update.md). All 25 tests, the strict build, coverage/cache validation, timestamp checks, staged/history review, and browser checks passed. All 310 live HTTP checks passed.
 
 | Phase | State |
 |---|---|
 | Test-first ingestion and validators | Complete; 22 Python and three JavaScript tests pass |
 | Pilot extraction/read/build | Complete; 12 varied sources, full-body tail and structure checks |
-| Complete discovery and classification | Complete for this incremental check; 275 URL records, 227 included, 48 exclusions |
-| Full capture and reading | Complete; 227 bodies, 344,753 extracted words, zero included fetch failures; three full readings in this update |
+| Longform discovery and classification | Complete for the essay update; 275 URL records, 227 included, 48 exclusions |
+| Longform capture and reading | Complete; 227 bodies, 344,753 extracted words, zero included fetch failures; three full readings in the essay update |
 | Original source notes | Complete; 227 article/mailbag notes and five podcast notes tied to source-body hashes |
 | Selected podcast reading | Complete; five of nine located transcripts reviewed, 140,079 extracted words including speaker labels and timestamps |
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
-| Coverage, citations, links, source overlap | Complete; zero coverage, link, or overlap findings; staged/history review pending for this batch |
-| Pages publishing and deployed browser check | Podcast publication pending; earlier essay release passed all 303 HTTP checks |
+| Coverage, citations, links, source overlap | Complete; zero coverage, link, overlap, or staged/history findings |
+| Pages publishing and deployed browser check | Complete; all 305 content pages and five assets HTTP 200; all pages indexed and live DevriX search verified |
 
 Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 

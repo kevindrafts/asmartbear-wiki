@@ -116,4 +116,13 @@ The verification commands in the earlier test section were rerun for this batch 
 
 Local browser checks covered the podcast index, E08 source links and dates, search for PainPointy and opening its result, and mobile navigation at 390 × 844. The index and episode note fit the mobile viewport without horizontal page overflow. Transcript wording, speaker labels, and time alignment were not verified against audio; known E05 inconsistencies are documented.
 
-Staged/history review and deployment evidence are pending for this new batch.
+Staged/history review passed with zero findings. Content commit `f18a4ac` was deployed by [run 39059148772](https://github.com/kevindrafts/asmartbear-wiki/actions/runs/39059148772), which independently passed all tests, the validator, and strict build. The deployed-site audit passed **310 HTTP checks: 305 content pages plus five assets**; all 305 content pages are indexed. The live podcast index and a DevriX search leading to E09 were verified in the browser, including source dates, transcript/audio links, and backlinks.
+
+```sh
+git commit -m 'Add five reviewed Smart Bear Live conversations and wiki connections'
+git push origin main
+gh run watch 39059148772 --repo kevindrafts/asmartbear-wiki --exit-status --interval 15
+.venv/bin/python -m scripts.check_deployment
+```
+
+This evidence update is published through the same validated workflow. Current audit JSON files record the combined article and podcast collection. No source payloads entered Git, the site, or its search index. No scheduled updates were created.
