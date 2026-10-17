@@ -1,20 +1,20 @@
 # Build status
 
-Updated September 30, 2026. Execution and public publishing to `kevindrafts/asmartbear-wiki` were explicitly authorized; the earlier plan's scoping-only language was superseded.
+Updated October 17, 2026. The [incremental update](recent-update.md) adds one essay and refreshes two existing source reviews. Editorial changes, all 22 tests, the strict build, coverage/cache validation, and local browser checks are complete. Publication verification is pending.
 
 | Phase | State |
 |---|---|
 | Test-first ingestion and validators | Complete; 19 Python and three JavaScript tests pass |
 | Pilot extraction/read/build | Complete; 12 varied sources, full-body tail and structure checks |
-| Complete discovery and classification | Complete; 274 URL records, 226 included, 48 exclusions |
-| Full capture and reading | Complete; 226 bodies, 343,448 extracted words, zero included fetch failures |
-| Original article notes | Complete; 226 reviewed notes tied to source-body hashes |
+| Complete discovery and classification | Complete for this incremental check; 275 URL records, 227 included, 48 exclusions |
+| Full capture and reading | Complete; 227 bodies, 344,753 extracted words, zero included fetch failures; three full readings in this update |
+| Original article notes | Complete; 227 reviewed notes tied to source-body hashes |
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
 | Coverage, citations, links, source overlap | Complete; zero coverage, link, overlap, or staged/history findings |
-| Pages publishing and deployed browser check | Complete; all 296 content pages and five assets HTTP 200; live search verified |
+| Pages publishing and deployed browser check | September 30 release: 296 content pages and five assets HTTP 200; October update pending |
 
-Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). No known blockers. Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
+Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 
 ## Durable checkpoints
 

@@ -2,9 +2,11 @@
 
 An unofficial reading companion to **Jason Cohen’s A Smart Bear**: concise original notes, connected ideas, and practical questions. Read the linked originals for the full argument, examples, and diagrams. This project is independent and is not endorsed by Cohen.
 
-**226 articles read and reviewed · 43 topics · 10 decision guides · 5 reading paths**
+**227 articles read and reviewed · 43 topics · 10 decision guides · 5 reading paths**
 
-Source snapshot: September 30, 2026.
+Latest discovery check: October 17, 2026. [What changed](reports/recent-update.md): one new essay and two source refreshes since the September 30 snapshot.
+
+New: [“You didn’t do it right”](processed/you-didnt-do-it-right.md) — testing whether a management framework fits your team.
 
 ## Start with a decision
 

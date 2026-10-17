@@ -3,10 +3,10 @@ title: “Stealth mode” and other f’ing brilliant strategies
 source: https://longform.asmartbear.com/stealth-mode/
 author: Jason Cohen
 published: '2025-01-19T00:00:00Z'
-modified: '2025-06-01T16:04:59Z'
+modified: '2026-10-07T17:12:08Z'
 source_type: article
 status: reviewed
-source_sha256: 4bbf4f4a14bb2e17d59b1c3c76b90868e35579b8f41fd8789920ebbb36326a1e
+source_sha256: ada66936b1498a1ef0ea195e09901bfbb1f61556fefb50db1250ac4c19936e3e
 topics:
 - validation
 - distribution

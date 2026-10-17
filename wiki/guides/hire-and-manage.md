@@ -10,8 +10,11 @@
 
 **Leave with:** A justified role, affordable capacity plan, evaluation criteria, and an ownership transition. Personal likeness is not competence, and empowerment does not mean abandoning management. If the problem is an unrealistic scope or promise, hiring alone may only make it more expensive.
 
+**When introducing a management framework:** Test it with one team before a broad rollout. Review what helps, what creates friction, and whether adaptation or replacement is warranted. Repeated failure deserves scrutiny of the framework's fit as well as its execution. [Cohen's experience with OKRs](https://longform.asmartbear.com/you-didnt-do-it-right/).
+
 ## Source notes
 
+- [“You didn’t do it right”](../../processed/you-didnt-do-it-right.md)
 - [Your non-linear problem of 90% utilization](../../processed/utilization.md)
 - [Scaling by “delegation” isn’t good enough](../../processed/delegation.md)
 - [The fundamental forces of scale](../../processed/scale.md)

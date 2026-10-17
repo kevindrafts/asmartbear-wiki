@@ -6,8 +6,11 @@ Different functions also speak different operational languages. A product team m
 
 **Editorial application:** Trace each dashboard item to the decision it informs. Keep leading evidence and lagging outcomes together, validate instrumentation independently, and acknowledge attribution limits. The article that argues for several incompatible supreme SaaS metrics is intentionally rhetorical: circumstance determines the useful priority. [Checking the instruments](https://longform.asmartbear.com/whos-lying/); [No universal supreme metric](https://longform.asmartbear.com/saas-metric/).
 
+Cohen's later account of adopting the KPI framework adds a practical qualification: his teams began with one measure they personally valued, used it for a quarter, and expanded gradually. Accountability respected the difference between control and influence. **Editorial connection:** A broad map of possible metrics does not require launching a large dashboard at once. [How the framework was adopted](https://longform.asmartbear.com/you-didnt-do-it-right/); [The broader metric map](https://longform.asmartbear.com/product-metrics/).
+
 ## Source notes
 
+- [“You didn’t do it right”](../../processed/you-didnt-do-it-right.md)
 - [The full story of “the one important thing” for startups](../../processed/one-priority.md)
 - [Selecting the right product metrics (KPIs)](../../processed/product-metrics.md)
 - [Disentangling the three languages: Customers, Product, Business](../../processed/three-languages.md)

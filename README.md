@@ -4,7 +4,7 @@ An independent, source-linked reading companion to Jason Cohen's company-buildin
 
 **Website:** https://kevindrafts.github.io/asmartbear-wiki/
 
-226 reviewed article notes, 43 cross-article topics, 10 decision guides, and five reading paths. Every included article body was read in full; original sources remain linked, not republished. The September 30, 2026 snapshot includes 14 mailbags and two essays discovered beyond the sitemap. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
+227 reviewed article notes, 43 cross-article topics, 10 decision guides, and five reading paths. Every included article body was read in full; original sources remain linked, not republished. The collection, checked October 17, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [October update](reports/recent-update.md) adds one essay and refreshes two existing sources. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
 
 ## Build and check
 

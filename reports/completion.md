@@ -1,5 +1,26 @@
 # Completion and publication verification
 
+## October 17 incremental update
+
+Added one reviewed essay and refreshed two source reviews after checking current homepage, RSS, and sitemap discovery. The collection now contains 227 notes; topic, guide, and reading-path counts are unchanged. See the [update report](recent-update.md) for scope and qualifications. All 22 tests passed (19 Python, three JavaScript), the strict build passed, and the complete coverage/cache audit reported zero errors for 227 notes. Browser checks verified the new note's source date, original-source link, backlinks, search result for `OKRs`, and mobile layout and navigation at 390 × 844. Publication verification is pending; the evidence below records the original September release.
+
+Commands for this update:
+
+```sh
+node --test tests/search.test.cjs
+.venv/bin/python -m unittest discover -s tests -v
+.venv/bin/python -m scripts.finalize_site
+.venv/bin/python -m scripts.build_site
+.venv/bin/mkdocs build --strict
+.venv/bin/python -m scripts.validate --require-complete --cache-audit
+.venv/bin/python -m scripts.review_git --cache-audit
+git diff --cached --check
+```
+
+The deployment checker now derives its expected article count from the catalog, so it can reject the old 226-note homepage after this update.
+
+## September 30 original release
+
 **Complete — September 30, 2026.** The wiki is built, committed, pushed, and publicly deployed at [kevindrafts.github.io/asmartbear-wiki](https://kevindrafts.github.io/asmartbear-wiki/). There are no known included-source, editorial coverage, build, or deployment blockers.
 
 ## Delivered counts

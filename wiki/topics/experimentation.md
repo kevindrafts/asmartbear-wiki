@@ -6,8 +6,12 @@ Disciplined measurement should not constrain every experiment to tiny variants. 
 
 **Editorial application:** Decide what customer belief is being tested, choose an effect that available traffic can meaningfully detect, and define review criteria before launch. Treat exploratory observations as hypotheses for fresh evidence. A failed test can teach something useful, while a favorable result needs the same scrutiny as an unwelcome one.
 
+Management processes deserve experiments too. Cohen's OKR experience challenges explanations that blame every failure on execution while refusing to specify where the method is unsuitable. A trial can reveal whether to adapt or replace a framework. **Editorial connection:** As with customer experiments, decide what evidence could change your commitment; organizational fit is not established by a framework's reputation. [Frameworks as trials](https://longform.asmartbear.com/you-didnt-do-it-right/); [Evidence behind an existing decision](https://longform.asmartbear.com/strong-opinions-weakly-held/).
+
 ## Source notes
 
+- [“You didn’t do it right”](../../processed/you-didnt-do-it-right.md)
+- [Strong opinions, somewhat weakly held](../../processed/strong-opinions-weakly-held.md)
 - [p-Hacking your A/B tests](../../processed/p-hacking.md)
 - [The Pattern-Seeking Fallacy](../../processed/pattern-seeking-fallacy.md)
 - [Easy statistics for A/B testing and hamsters](../../processed/ab-testing-statistics.md)

@@ -6,10 +6,13 @@ Autonomy needs shared direction. Clear strategic choices reduce inconsistent loc
 
 **Editorial application:** Make ownership, expectations, dependencies, and review points visible. Ask whether repeated intervention indicates a capability gap, unclear context, or the manager's reluctance to release control. Examine motivation through the actual role and the person's goals before assuming a motivational speech will fix a mismatch. [Role and motivation](https://longform.asmartbear.com/how-to-motivate-an-employee/).
 
+Framework adoption also needs a test of fit. After repeated unsuccessful OKR rollouts, Cohen recommends trying a process with one team, adjusting it, and allowing rejection. His own replacement worked for particular teams; it is not a universal successor to OKRs. [Testing management frameworks](https://longform.asmartbear.com/you-didnt-do-it-right/).
+
 Neither empowerment nor accountability requires pretending uncertainty has disappeared.
 
 ## Source notes
 
+- [“You didn’t do it right”](../../processed/you-didnt-do-it-right.md)
 - [In command](../../processed/in-command.md)
 - [Advice for a first-time manager](../../processed/advice-first-time-manager.md)
 - [Strategic choices: When both options are good](../../processed/strategic-choices.md)

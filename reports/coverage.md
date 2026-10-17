@@ -1,26 +1,26 @@
 # Coverage and source boundary
 
-Snapshot: 2026-09-30. This is a complete reading companion to the discovered longform corpus, not a career-wide archive.
+Discovery checked: 2026-10-17. Original capture: 2026-09-30, with one addition and two source refreshes on October 17; see [recent update](recent-update.md). This is a complete reading companion to the discovered longform corpus, not a career-wide archive.
 
-**226 included sources; 226 read in full; 226 reviewed notes.** 343,448 extracted source words were read externally. No included fetch failures or pending reviews.
+**227 included sources; 227 read in full; 227 reviewed notes.** 344,753 extracted source words were read externally. No included fetch failures or pending reviews.
 
 Discovery combined sitemap, homepage, RSS, and recursive internal article links. Canonical URLs were reconciled; the included set has no canonical duplicates.
 
 | Discovery route | URLs in ledger | Included articles |
 |---|---:|---:|
-| sitemap | 226 | 224 |
-| homepage | 217 | 212 |
-| rss | 166 | 166 |
+| sitemap | 227 | 225 |
+| homepage | 218 | 213 |
+| rss | 167 | 167 |
 
-Routes overlap. Internal links added [What to do when growth tapers off](https://longform.asmartbear.com/growth-asymptote/), [Replacing the “SWOT” with The Landscape](https://longform.asmartbear.com/swot/). The sitemap has 226 URLs, including biography and subscription pages; its 224 article URLs plus these two essays yield 226 included articles.
+Routes overlap. Internal links added [What to do when growth tapers off](https://longform.asmartbear.com/growth-asymptote/), [Replacing the “SWOT” with The Landscape](https://longform.asmartbear.com/swot/). The checked sitemap has 227 URLs, including biography and subscription pages; its 225 article URLs plus these two essays yield 227 included articles.
 
-The included set contains 212 essays and 14 mailbags. 14 sources are absent from homepage discovery, all mailbags. This corrects the initial estimate of 12 hidden mailbags.
+The included set contains 213 essays and 14 mailbags. 14 sources are absent from homepage discovery, all mailbags. This corrects the initial estimate of 12 hidden mailbags.
 
 ## Classification
 
 | Class | Count |
 |---|---:|
-| article | 212 |
+| article | 213 |
 | asset | 6 |
 | biography | 1 |
 | external-asset | 5 |
@@ -89,7 +89,7 @@ Every discovered in-scope-domain URL has an included or exclusion record. Extern
 
 ## Editorial coverage
 
-226 concise source-linked notes, 43 cross-article topic pages, 10 practical decision guides, and five stage-based reading paths. The [article catalog](../processed/index.md) reaches every note. Every note connects to at least one substantive topic, and synthesis pages cite multiple primary sources.
+227 concise source-linked notes, 43 cross-article topic pages, 10 practical decision guides, and five stage-based reading paths. The [article catalog](../processed/index.md) reaches every note. Every note connects to at least one substantive topic, and synthesis pages cite multiple primary sources.
 
 All bodies, footnotes, extracted table cells, image alt text, and captions were read. Diagram meaning is described in original prose where relevant; diagrams themselves are not copied. This is not a claim that every decorative image was visually inspected. Explicit source discrepancies and technical qualifications are retained in the relevant notes (including color wheels, A/B statistics, forecasting, and revenue models).
 

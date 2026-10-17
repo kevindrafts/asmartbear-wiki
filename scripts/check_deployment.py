@@ -18,7 +18,8 @@ def run():
         time.sleep(.25)
     # Confirm the content and search index are the expected corpus, not an old shell.
     response=session.get(BASE,timeout=30);response.raise_for_status()
-    for marker in ('226 articles read and reviewed','43 topics','10 decision guides','5 reading paths'):
+    article_count=len(Path('catalog/articles.jsonl').read_text().splitlines())
+    for marker in (f'{article_count} articles read and reviewed','43 topics','10 decision guides','5 reading paths'):
         if marker not in response.text:failures.append({'homepage_missing':marker})
     response=session.get(BASE+'search/search_index.json',timeout=30);response.raise_for_status()
     data=response.json();indexed={d['location'].split('#')[0] for d in data['docs']}
