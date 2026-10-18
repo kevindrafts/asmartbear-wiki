@@ -1,6 +1,6 @@
 # Build status
 
-Updated October 17, 2026. The [podcast follow-up](podcast-update.md) adds the remaining four listed episodes (1, 4, 6, and 7), bringing the wiki to 236 reviewed sources: 227 articles and mailbags plus all nine discovered Smart Bear Live transcripts. Nine topics and three guides gain connections. Full reading, original notes, all 25 tests, the strict build, complete-corpus/cache validation, and publication verification are complete. All 314 live HTTP checks pass.
+Updated October 18, 2026. The [weekly update](podcast-update.md) adds E10 with Jessica Malnik and Mindstamp after complete transcript reading, bringing coverage to 237 reviewed sources: 227 articles and mailbags plus ten podcast episodes. Four topic pages and one guide gain connections. The blog discovery check found no new articles or changed sitemap timestamps; all nine earlier transcript bodies match their reviewed hashes. All 25 tests, the strict build, and the complete-corpus/cache audit pass; publication verification is pending.
 
 | Phase | State |
 |---|---|
@@ -8,12 +8,12 @@ Updated October 17, 2026. The [podcast follow-up](podcast-update.md) adds the re
 | Pilot extraction/read/build | Complete; 12 varied sources, full-body tail and structure checks |
 | Longform discovery and classification | Complete for the essay update; 275 URL records, 227 included, 48 exclusions |
 | Longform capture and reading | Complete; 227 bodies, 344,753 extracted words, zero included fetch failures; three full readings in the essay update |
-| Original source notes | Complete; 227 article/mailbag notes and nine podcast notes tied to source-body hashes |
-| Podcast reading | Complete; nine of nine located transcripts reviewed, 245,167 extracted words including speaker labels and timestamps |
+| Original source notes | Complete; 227 article/mailbag notes and ten podcast notes tied to source-body hashes |
+| Podcast reading | Complete; ten of ten located transcripts reviewed, 262,439 extracted words including speaker labels and timestamps |
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
-| Coverage, citations, links, source overlap | Complete; 236 reviewed notes, zero errors; 41 transcript anchors verified |
-| Pages publishing and deployed browser check | Complete; content commit c29a362 deployed, 314 HTTP checks pass; live index and E04 inspected. Browser search retained the prior cached index immediately after deployment. |
+| Coverage, citations, links, source overlap | Complete; 237 reviewed notes, zero errors; 51 transcript anchors verified |
+| Pages publishing and deployed browser check | October 18 publication pending; earlier content and evidence deployments succeeded |
 
 Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 

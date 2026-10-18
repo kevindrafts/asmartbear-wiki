@@ -8,6 +8,8 @@ Sample selection changes what you can learn. Existing customers explain useful o
 
 The [PainPointy interview preparation](../../processed/smart-bear-live-e08.md) shows the method being revised in conversation: separate the hypothesized role, segment, and outcome, then ask about current inputs and how ideas are judged. Cohen and Rison Simon have not yet collected the interview results. **Editorial connection:** A well-formed question improves the test; it does not validate the belief being tested. [E08 method](https://smartbearlive.transistor.fm/8/transcript#t=8m36s); [neutral prompts](https://smartbearlive.transistor.fm/8/transcript#t=46m49s).
 
+In [Mindstamp](../../processed/smart-bear-live-e10.md), frequent support conversations leave important buying questions unanswered. Jessica Malnik proposes individual interviews with current and former customers before choosing adjacent markets and events. Cohen adds prospective customers and a test of whether content creation is actually blocking adoption. **Editorial connection:** Investigate a promising explanation before designing a service around it; an existing customer's lack of interest may also require testing a different audience. [E10 research sequence](https://smartbearlive.transistor.fm/10/transcript#t=1h0m25s); [Hypothesis and audience](https://smartbearlive.transistor.fm/10/transcript#t=1h2m27s).
+
 ## Source notes
 
 - [The Iterative-Hypothesis customer development method](../../processed/customer-development.md)

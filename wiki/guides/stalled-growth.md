@@ -16,6 +16,8 @@
 
 [ScreenshotOne](../../processed/smart-bear-live-e01.md) adds a third case: separate customers buying a temporary project from those with recurring use, then test whether a candidate market could support the desired expansion. [Ymir](../../processed/smart-bear-live-e06.md) has a different problem: loyal users but an offer whose price, dependency, and target buyer conflict. **Editorial exercise:** Compare these mechanisms before choosing retention work, market discovery, or a redesigned offer. [E01](https://smartbearlive.transistor.fm/1/transcript#t=29m29s); [E06](https://smartbearlive.transistor.fm/6/transcript#t=24m58s).
 
+**Editorial exercise:** Use [Mindstamp](../../processed/smart-bear-live-e10.md) to separate lack of awareness from lack of an implementable project. Before buying more attention or adding a content-creation service, ask buyers what they are already committed to doing and what prevents them from doing it. Treat the proposed service as a hypothesis for current and prospective customers. [E10 readiness](https://smartbearlive.transistor.fm/10/transcript#t=26m22s); [Testing the obstacle](https://smartbearlive.transistor.fm/10/transcript#t=1h2m27s).
+
 ## Source notes
 
 - [Who’s lying?](../../processed/whos-lying.md)

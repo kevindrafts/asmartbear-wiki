@@ -8,6 +8,8 @@ Coherence emerges when choices reinforce each other. A small core and an extensi
 
 In [Ymir](../../processed/smart-bear-live-e06.md), Cohen and Bryce Adams examine the tension between a critical infrastructure promise, a very low price, and reliance on one person. They propose combining software with paid implementation and training, so Alexander's expertise helps the customer's team operate independently. **Editorial connection:** Resolving a contradiction may require changing what is sold, not merely improving its description. This is a proposed business design, not evidence of a successful pivot. [E06 contradiction](https://smartbearlive.transistor.fm/6/transcript#t=24m58s); [Revised offer](https://smartbearlive.transistor.fm/6/transcript#t=40m10s).
 
+[Mindstamp](../../processed/smart-bear-live-e10.md) adds a useful condition to the [Ymir](../../processed/smart-bear-live-e06.md) service idea: initial implementation work should enable continuing product use, rather than make every renewal depend on ongoing consulting. **Editorial comparison:** Evaluate what the service removes for the customer and what remains valuable afterward. Both conversations propose a direction rather than demonstrate its economics. [E10 services distinction](https://smartbearlive.transistor.fm/10/transcript#t=32m31s); [E06 training and implementation](https://smartbearlive.transistor.fm/6/transcript#t=40m10s).
+
 ## Source notes
 
 - [What makes a strategy great](../../processed/great-strategy.md)

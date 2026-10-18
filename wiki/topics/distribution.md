@@ -8,6 +8,8 @@ Different mechanisms carry different constraints. Built-in invitations expose ne
 
 A successful distribution experiment is an input to a business model, not permission to ignore service, retention, or the channel's eventual ceiling.
 
+[Mindstamp](../../processed/smart-bear-live-e10.md) supplies a proposed partner mechanism: help training providers offer a differentiated interactive experience, then reach buyers through those relationships. Malnik suggests investigating relevant industry gatherings; Cohen also proposes teaching video-making skills that complement the software. **Editorial connection:** Explain how the partner or learner benefits before assuming access to their audience will produce sales. Neither route has been validated in the episode. [E10 partner outreach](https://smartbearlive.transistor.fm/10/transcript#t=45m38s); [Educational content](https://smartbearlive.transistor.fm/10/transcript#t=54m18s).
+
 ## Source notes
 
 - [If you build it, they won’t come, unless…](../../processed/startup-marketing-ideas.md)

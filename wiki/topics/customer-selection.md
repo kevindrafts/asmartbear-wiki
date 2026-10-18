@@ -10,6 +10,8 @@ The [PostPlanify conversation](../../processed/smart-bear-live-e05.md) makes the
 
 Two further conversations test whether a customer description is actionable. In [Ymir](../../processed/smart-bear-live-e06.md), the target becomes agencies whose teams already want AWS infrastructure and need help operating it. In [NaiL](../../processed/smart-bear-live-e07.md), Dan Martell suggests observable clues correlated with early technology adoption. **Editorial connection:** Separate a defining buying circumstance from an imperfect signal used to find prospects; validate the latter instead of turning it into a universal filter. [E06 target](https://smartbearlive.transistor.fm/6/transcript#t=1h24m49s); [E07 signals](https://smartbearlive.transistor.fm/7/transcript#t=24m42s).
 
+The [Mindstamp discussion](../../processed/smart-bear-live-e10.md) separates a customizable product from an overly broad audience. A narrow buyer may value flexibility, but a curious prospect without content or an approved project still cannot adopt it. **Editorial connection:** Describe both the reason to prefer the product and the circumstances that make implementation possible. [E10 flexibility](https://smartbearlive.transistor.fm/10/transcript#t=7m48s); [Project readiness](https://smartbearlive.transistor.fm/10/transcript#t=26m22s).
+
 ## Source notes
 
 - [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](../../processed/icp-ideal-customer-persona.md)
