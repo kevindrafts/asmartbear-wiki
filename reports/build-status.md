@@ -1,6 +1,6 @@
 # Build status
 
-Updated October 18, 2026. The [weekly update](podcast-update.md) adds E10 with Jessica Malnik and Mindstamp after complete transcript reading, bringing coverage to 237 reviewed sources: 227 articles and mailbags plus ten podcast episodes. Four topic pages and one guide gain connections. The blog discovery check found no new articles or changed sitemap timestamps; all nine earlier transcript bodies match their reviewed hashes. All 25 tests, the strict build, and the complete-corpus/cache audit pass; publication verification is pending.
+Updated October 18, 2026. The [weekly update](podcast-update.md) adds E10 with Jessica Malnik and Mindstamp after complete transcript reading, bringing coverage to 237 reviewed sources: 227 articles and mailbags plus ten podcast episodes. Four topic pages and one guide gain connections. The blog discovery check found no new articles or changed sitemap timestamps; all nine earlier transcript bodies match their reviewed hashes. All 25 tests, the strict build, complete-corpus/cache audit, and 315 live HTTP checks pass. E10 and live search were verified in the browser.
 
 | Phase | State |
 |---|---|
@@ -13,7 +13,7 @@ Updated October 18, 2026. The [weekly update](podcast-update.md) adds E10 with J
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
 | Coverage, citations, links, source overlap | Complete; 237 reviewed notes, zero errors; 51 transcript anchors verified |
-| Pages publishing and deployed browser check | October 18 publication pending; earlier content and evidence deployments succeeded |
+| Pages publishing and deployed browser check | Complete; content commit 4c46101 deployed, 315 HTTP checks pass; E10 and Mindstamp search verified |
 
 Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 

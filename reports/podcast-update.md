@@ -1,6 +1,6 @@
-# Smart Bear Live update — October 17, 2026
+# Smart Bear Live updates
 
-The initial batch added five episode notes; the follow-up adds the remaining four. The wiki now includes **236 reviewed sources: 227 articles and mailbags plus all nine Smart Bear Live episodes listed on October 17, 2026**. All 245,167 extracted transcript words were read externally. The [podcast index](../wiki/podcasts.md) reaches every episode. Totals remain 43 topics, 10 guides, and five reading paths.
+The October 17 batches reviewed the first nine episodes; the October 18 weekly check adds E10. The wiki now includes **237 reviewed sources: 227 articles and mailbags plus all ten Smart Bear Live episodes listed on October 18, 2026**. All 262,439 extracted transcript words were read externally. The [podcast index](../wiki/podcasts.md) reaches every episode. Totals remain 43 topics, 10 guides, and five reading paths.
 
 ## Initial five-episode batch
 
@@ -66,4 +66,4 @@ The [blog homepage](https://longform.asmartbear.com/), [RSS feed](https://longfo
 
 Coverage is now **237 reviewed notes: 227 articles and mailbags plus ten podcast episodes**, totaling 262,439 extracted podcast words. Topics, guides, and reading paths remain 43, 10, and five. Robots were checked for both source hosts; requests were sequential, with no source JSON or `/ref/` requests. Source captures, extraction, and discovery evidence remain only in the external cache's `weekly-2026-10-18` directory; the reviewed E10 cache and podcast ledger were updated there. Public catalogs contain metadata only.
 
-All 25 tests pass (22 Python and three JavaScript). The strict build and complete-corpus/cache validator pass with 237 notes and zero errors. All 51 unique transcript anchors match the cached official HTML, including ten for E10. Publication verification is pending. Earlier counts and deployment evidence in this report refer to their dated batches.
+All 25 tests pass (22 Python and three JavaScript). The strict build and complete-corpus/cache validator pass with 237 notes and zero errors. All 51 unique transcript anchors match the cached official HTML, including ten for E10. Content commit `4c46101` was pushed to `main` and published by [deployment 39110088345](https://github.com/kevindrafts/asmartbear-wiki/actions/runs/39110088345), which independently passed tests, validation, and the strict build. Staged/history review reported zero findings. The deployed-site audit passed **315 HTTP checks: 310 content pages plus five assets**, with every content page present in search and zero errors. Browser inspection verified the E10 note, publication date, primary-source links, attribution, backlinks, and readable desktop layout; searching for Mindstamp returned E10 and its connected pages. The final evidence refresh uses the same validated publishing workflow. Earlier counts and deployment evidence in this report refer to their dated batches.
