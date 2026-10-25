@@ -1,6 +1,6 @@
 # Build status
 
-Updated October 25, 2026. The weekly update adds [E11 with Mariya Delano and Userlist](podcast-update.md) and refreshes the [delegation and target-market articles](recent-update.md), bringing coverage to 238 reviewed sources: 227 articles/mailbags and eleven episodes. Six topics and three guides receive changes. All selected sources were read completely; all ten earlier transcript bodies match their reviewed hashes. All 25 tests, the strict build, and the complete-corpus/cache audit pass; publication verification is pending.
+Updated October 25, 2026. The weekly update adds [E11 with Mariya Delano and Userlist](podcast-update.md) and refreshes the [delegation and target-market articles](recent-update.md), bringing coverage to 238 reviewed sources: 227 articles/mailbags and eleven episodes. Six topics and three guides receive changes. All selected sources were read completely; all ten earlier transcript bodies match their reviewed hashes. All 25 tests, the strict build, and the complete-corpus/cache audit pass. Content commit `4d447b7` is deployed; all 316 live HTTP checks passed, with every content page present in search.
 
 | Phase | State |
 |---|---|
@@ -13,7 +13,7 @@ Updated October 25, 2026. The weekly update adds [E11 with Mariya Delano and Use
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
 | Coverage, citations, links, source overlap | Complete; 238 reviewed notes, zero errors; 62 transcript anchors verified |
-| Pages publishing and deployed browser check | October 25 publication pending; earlier release verified |
+| Pages publishing and deployed-site checks | Complete; content commit `4d447b7`, 316 HTTP checks, dates/links/backlinks and search index verified; browser automation unavailable |
 
 Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 
