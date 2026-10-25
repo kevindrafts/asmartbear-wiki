@@ -1,6 +1,6 @@
 # Delegate outcomes and build stronger capabilities
 
-Replacing founder labor with instructions to imitate the founder imposes a ceiling on the company. Cohen argues for teams that improve the work using expertise beyond the founder's own, while retaining responsibility for results. [Beyond task transfer](https://longform.asmartbear.com/delegation/).
+Replacing founder labor with instructions to imitate the founder imposes a ceiling on the company. Cohen argues for teams that improve the work using expertise beyond the founder's own, while retaining responsibility for results. His test of organizational scale is whether the team can make sound decisions without the founder. [Beyond task transfer](https://longform.asmartbear.com/delegation/).
 
 Founder time has an opportunity cost, but valuing it highly does not automatically make every hire affordable. Delegation depends on available cash, the importance of the displaced work, and someone capable of owning the result. Evaluation must become a skill in its own right when the founder cannot personally outperform the specialist. [The opportunity cost of time](https://longform.asmartbear.com/value-time/); [Hiring outside your expertise](https://longform.asmartbear.com/hire-better-than-you/).
 

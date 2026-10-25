@@ -4,7 +4,7 @@ An independent, source-linked reading companion to Jason Cohen's company-buildin
 
 **Website:** https://kevindrafts.github.io/asmartbear-wiki/
 
-237 reviewed notes: 227 articles and mailbags plus ten podcast conversations, with 43 topics, 10 decision guides, and five reading paths. Every included source was read in full; originals remain linked, not republished. The collection, checked October 18, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [essay update](reports/recent-update.md) adds one essay and refreshes two existing sources. The [podcast update](reports/podcast-update.md) covers all ten listed episodes, including the October 18 addition of E10 with Jessica Malnik and Mindstamp. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
+238 reviewed notes: 227 articles and mailbags plus eleven podcast conversations, with 43 topics, 10 decision guides, and five reading paths. Every included source was read in full; originals remain linked, not republished. The collection, checked October 25, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [essay update log](reports/recent-update.md) records the October 17 additions and October 25 refreshes to delegation and target-market notes. The [podcast update](reports/podcast-update.md) covers all eleven listed episodes, including E11 with Mariya Delano and Userlist, added October 25. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
 
 ## Build and check
 

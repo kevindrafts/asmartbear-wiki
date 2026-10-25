@@ -8,6 +8,8 @@ That promise must fit the operating model. A side project cannot credibly offer 
 
 Support data is rich but selected: silent abandoners and non-buyers need other research methods. Exceptional service can be an advantage without being the correct cost structure for every product.
 
+In [Userlist](../../processed/smart-bear-live-e11.md), paying does not reliably imply completed setup. Mariya Delano proposes showing the benefit of a missing integration inside the product; Cohen connects that moment to targeted implementation help. They also discuss paid onboarding, while allowing that customers who already implement successfully may need a different offer. **Editorial connection:** Match assistance to the blocked action and the buyer's capabilities; a generic reminder is not the same as resolving the obstacle. [E11 contextual help](https://smartbearlive.transistor.fm/11/transcript#t=22m43s); [Onboarding qualifications](https://smartbearlive.transistor.fm/11/transcript#t=25m28s).
+
 ## Source notes
 
 - [Tech Support is sales](../../processed/tech-support-is-sales.md)

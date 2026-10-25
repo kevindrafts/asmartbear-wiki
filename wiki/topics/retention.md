@@ -10,6 +10,8 @@ In the [Podsqueeze discussion](../../processed/smart-bear-live-e03.md), Craig He
 
 The [ScreenshotOne conversation](../../processed/smart-bear-live-e01.md) separates temporary projects from customers with an ongoing use. Cohen proposes an early-life cohort alongside longer-lived users so that expected project completion does not obscure recurring-use retention. **Editorial connection:** An aggregate cancellation rate can describe the growth constraint without explaining which customer relationship should change. [E01 segmentation](https://smartbearlive.transistor.fm/1/transcript#t=29m29s).
 
+The [Userlist discussion](../../processed/smart-bear-live-e11.md) distinguishes poor fit, incomplete implementation, and loss of an internal champion. Deicke limits the price-cancellation claim to a small recent sample; Cohen and Mariya Delano propose making results easier to share beyond one user. **Editorial connection:** Investigate who understands the value as well as who operates the product. Broader visibility is a proposed defense against organizational change, not a proven cure for churn. [E11 qualification and reporting](https://smartbearlive.transistor.fm/11/transcript#t=12m51s); [Delano's reporting suggestions](https://smartbearlive.transistor.fm/11/transcript#t=17m47s).
+
 ## Source notes
 
 - [The roadmap to Product/Market Fit (PMF)… maybe](../../processed/product-market-fit-formula.md)

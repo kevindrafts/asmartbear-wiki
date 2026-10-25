@@ -18,6 +18,8 @@
 
 **Editorial exercise:** Use [Mindstamp](../../processed/smart-bear-live-e10.md) to separate lack of awareness from lack of an implementable project. Before buying more attention or adding a content-creation service, ask buyers what they are already committed to doing and what prevents them from doing it. Treat the proposed service as a hypothesis for current and prospective customers. [E10 readiness](https://smartbearlive.transistor.fm/10/transcript#t=26m22s); [Testing the obstacle](https://smartbearlive.transistor.fm/10/transcript#t=1h2m27s).
 
+**Editorial exercise:** Use [Userlist](../../processed/smart-bear-live-e11.md) to distinguish paying customers from successfully implemented customers. Then separate buyers who never fit the product from those who lost an internal champion. The corresponding tests might concern qualification, implementation help, or shared visibility of results; the episode does not establish which will improve retention. [E11 champion loss](https://smartbearlive.transistor.fm/11/transcript#t=12m51s); [Implementation estimate](https://smartbearlive.transistor.fm/11/transcript#t=20m9s).
+
 ## Source notes
 
 - [Who’s lying?](../../processed/whos-lying.md)

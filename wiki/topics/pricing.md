@@ -12,6 +12,8 @@ Two podcast cases sharpen the distinction between cost and customer value. In [P
 
 [Ymir](../../processed/smart-bear-live-e06.md) connects price to the credibility and delivery of the offer. Adams distinguishes a small entry plan with an expansion path from selling the entire service indefinitely at a low flat price. The hosts then explore a more expensive software-and-training package; neither the suggested amounts nor willingness expressed by one existing customer establish the final price. [E06 pricing model](https://smartbearlive.transistor.fm/6/transcript#t=28m57s); [Offer redesign](https://smartbearlive.transistor.fm/6/transcript#t=40m10s).
 
+The [Userlist conversation](../../processed/smart-bear-live-e11.md) includes disagreement about competitor prices and whether contacts or email volume should determine the bill. Cohen's closing recommendation is to interview the intended customers about value and charging units before making changes, while exploring paid onboarding. **Editorial connection:** An apparent price mismatch is a research question about audience, packaging, and delivery. The episode's proposed fees and comparisons are not validated benchmarks. [E11 pricing uncertainty](https://smartbearlive.transistor.fm/11/transcript#t=42m39s); [Research before changes](https://smartbearlive.transistor.fm/11/transcript#t=59m2s).
+
 ## Source notes
 
 - [Pricing determines your business model](../../processed/pricing-determines-your-business-model.md)

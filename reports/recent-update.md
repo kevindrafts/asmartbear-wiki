@@ -1,4 +1,6 @@
-# October 17, 2026 update
+# Article update log
+
+## October 17, 2026 update
 
 Checked the live [homepage](https://longform.asmartbear.com/), [RSS feed](https://longform.asmartbear.com/index.xml), and [sitemap](https://longform.asmartbear.com/sitemap.xml) against the September 30 catalog. All three discovery routes identified one missing essay. The sitemap also identified two changed source timestamps; both bodies were fetched and read again in full.
 
@@ -15,3 +17,17 @@ Coverage now comprises **227 reviewed notes, 43 topics, 10 decision guides, and 
 This was an incremental check, not a fresh crawl of every article. Existing sources without changed sitemap timestamps retain their prior reviews. RSS dates can reflect resurfaced older articles; note publication dates continue to use article metadata. The two previously identified 2030-dated sources remain qualified as anomalies, not counted as new releases. No scheduled updates were created.
 
 See [build status](build-status.md) and [completion](completion.md) for validation and publication results.
+
+
+## October 25 weekly refresh
+
+The [homepage](https://longform.asmartbear.com/), [RSS feed](https://longform.asmartbear.com/index.xml), and [sitemap](https://longform.asmartbear.com/sitemap.xml) produced no new article candidates. Two newly observed sitemap modification timestamps prompted fresh captures and complete rereading of **3,997 words**:
+
+| Source | Source modification timestamp | Change and wiki action |
+|---|---|---|
+| [Scaling by “delegation” isn’t good enough](https://longform.asmartbear.com/delegation/) | October 20, 2026, 19:27:11 UTC | Adds an explicit test of organizational scale: teams make sound decisions without the founder. Updated the existing note, delegation topic, and hiring guide. |
+| [Your target market isn’t demographic](https://longform.asmartbear.com/target-market/) | October 17, 2026, 21:18:54 UTC | Adds a segmentation dimension distinguishing replacement of existing work from first-time adoption. Updated the existing note, customer-selection topic, and ICP guide. |
+
+Original publication dates are preserved. The newly observed modification timestamps are source metadata, not inferred dates of publication or proof of exactly when the edits became visible. The two full bodies, their tables and footnotes, and image descriptions were reviewed; image metadata was unchanged, and no new diagram interpretation was needed. Their internal article links introduced no additional uncataloged sources. Original captures were retained in the external batch directory before replacing the current external cache records. Notes and public metadata now match the new reviewed hashes.
+
+The article collection remains 227 reviewed notes, totaling 344,815 extracted words in the current reviewed bodies. This incremental check uses discovery metadata to select existing articles; unadvertised changes to other bodies are outside its scope. The [podcast update](podcast-update.md) adds E11 in the same batch. Validation and publication are recorded in [build status](build-status.md) and [completion](completion.md).

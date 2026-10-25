@@ -10,6 +10,8 @@ In [Ymir](../../processed/smart-bear-live-e06.md), Cohen and Bryce Adams examine
 
 [Mindstamp](../../processed/smart-bear-live-e10.md) adds a useful condition to the [Ymir](../../processed/smart-bear-live-e06.md) service idea: initial implementation work should enable continuing product use, rather than make every renewal depend on ongoing consulting. **Editorial comparison:** Evaluate what the service removes for the customer and what remains valuable afterward. Both conversations propose a direction rather than demonstrate its economics. [E10 services distinction](https://smartbearlive.transistor.fm/10/transcript#t=32m31s); [E06 training and implementation](https://smartbearlive.transistor.fm/6/transcript#t=40m10s).
 
+[Userlist](../../processed/smart-bear-live-e11.md) shows another possible mismatch: the product and positioning can evolve while acquisition still reaches an earlier audience. Cohen proposes realigning how the company finds and serves advanced marketers; Portman also identifies reporting that needs improvement. **Editorial connection:** Review the whole business after a change in audience rather than assuming a new headline or feature set completes the transition. [E11 remaining product work](https://smartbearlive.transistor.fm/11/transcript#t=55m14s); [Business alignment](https://smartbearlive.transistor.fm/11/transcript#t=57m33s).
+
 ## Source notes
 
 - [What makes a strategy great](../../processed/great-strategy.md)

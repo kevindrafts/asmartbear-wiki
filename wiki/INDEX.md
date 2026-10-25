@@ -2,15 +2,15 @@
 
 An unofficial reading companion to **Jason Cohen’s A Smart Bear**: concise original notes, connected ideas, and practical questions. Read the linked originals for the full argument, examples, and diagrams. This project is independent and is not endorsed by Cohen.
 
-**237 sources read and reviewed · 43 topics · 10 decision guides · 5 reading paths**
+**238 sources read and reviewed · 43 topics · 10 decision guides · 5 reading paths**
 
-227 articles and mailbags, plus ten Smart Bear Live conversations.
+227 articles and mailbags, plus eleven Smart Bear Live conversations.
 
-Latest discovery check: October 18, 2026. [This week’s update](reports/podcast-update.md): E10 adds Mindstamp’s customer and distribution questions; the blog discovery check found no new articles or changed sitemap timestamps.
+Latest discovery check: October 25, 2026. [Podcast update](reports/podcast-update.md): E11 examines Userlist’s implementation and customer-fit problems. [Article refreshes](reports/recent-update.md) clarify independent team decisions and replacement versus first-time buying.
 
 New: [“You didn’t do it right”](processed/you-didnt-do-it-right.md) — testing whether a management framework fits your team.
 
-Also new: [Smart Bear Live](wiki/podcasts.md) — all ten listed episodes, covering interviews, customer focus, growth, strategy, sales, and founder purpose, with links into the official transcripts.
+Also new: [Smart Bear Live](wiki/podcasts.md) — all eleven listed episodes, covering interviews, customer focus, growth, strategy, sales, and founder purpose, with links into the official transcripts.
 
 ## Start with a decision
 
