@@ -14,6 +14,8 @@ Two podcast cases sharpen the distinction between cost and customer value. In [P
 
 The [Userlist conversation](../../processed/smart-bear-live-e11.md) includes disagreement about competitor prices and whether contacts or email volume should determine the bill. Cohen's closing recommendation is to interview the intended customers about value and charging units before making changes, while exploring paid onboarding. **Editorial connection:** An apparent price mismatch is a research question about audience, packaging, and delivery. The episode's proposed fees and comparisons are not validated benchmarks. [E11 pricing uncertainty](https://smartbearlive.transistor.fm/11/transcript#t=42m39s); [Research before changes](https://smartbearlive.transistor.fm/11/transcript#t=59m2s).
 
+[Post Bridge](../../processed/smart-bear-live-e12.md) connects the pricing page to the customer definition: Cohen questions beginner-oriented labels when the intended buyer is already succeeding. Tibo Louis-Lucas proposes testing one per-account charge with a minimum, consistent with a simple product; he also notes that this can confuse buyers with few accounts. **Editorial connection:** Make both the target buyer and the billing rule clear. His examples from other products do not establish that fewer plans or the proposed amount will work here. [E12 tier audiences](https://smartbearlive.transistor.fm/12/transcript#t=1h2m40s); [Proposed pricing test](https://smartbearlive.transistor.fm/12/transcript#t=1h7m34s); [Minimum qualification](https://smartbearlive.transistor.fm/12/transcript#t=1h9m5s).
+
 ## Source notes
 
 - [Pricing determines your business model](../../processed/pricing-determines-your-business-model.md)

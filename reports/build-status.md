@@ -1,6 +1,6 @@
 # Build status
 
-Updated October 25, 2026. The weekly update adds [E11 with Mariya Delano and Userlist](podcast-update.md) and refreshes the [delegation and target-market articles](recent-update.md), bringing coverage to 238 reviewed sources: 227 articles/mailbags and eleven episodes. Six topics and three guides receive changes. All selected sources were read completely; all ten earlier transcript bodies match their reviewed hashes. All 25 tests, the strict build, and the complete-corpus/cache audit pass. Content commit `4d447b7` is deployed; all 316 live HTTP checks passed, with every content page present in search.
+Updated November 1, 2026. The weekly update adds [E12 with Tibo Louis-Lucas and Post Bridge](podcast-update.md), bringing coverage to 239 reviewed sources: 227 articles/mailbags and twelve episodes. Four topics and two guides receive changes. The new transcript was read completely; all eleven earlier transcript bodies match their reviewed hashes. Blog discovery found no new articles or changed timestamps. All 25 tests pass (22 Python and three JavaScript). The strict site build and complete-corpus, citation, link, and source-cache audits pass with 239 notes and zero errors. Staged/history review and publication verification are pending.
 
 | Phase | State |
 |---|---|
@@ -8,12 +8,12 @@ Updated October 25, 2026. The weekly update adds [E11 with Mariya Delano and Use
 | Pilot extraction/read/build | Complete; 12 varied sources, full-body tail and structure checks |
 | Longform discovery and classification | Complete for the essay update; 275 URL records, 227 included, 48 exclusions |
 | Longform capture and reading | Complete; 227 bodies, 344,815 extracted words, zero included fetch failures; two additional full rereadings in the October 25 update |
-| Original source notes | Complete; 227 article/mailbag notes and eleven podcast notes tied to source-body hashes |
-| Podcast reading | Complete; eleven of eleven located transcripts reviewed, 278,425 extracted words including speaker labels and timestamps |
+| Original source notes | Complete; 227 article/mailbag notes and twelve podcast notes tied to source-body hashes |
+| Podcast reading | Complete; twelve of twelve located transcripts reviewed, 296,177 extracted words including speaker labels and timestamps |
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
-| Coverage, citations, links, source overlap | Complete; 238 reviewed notes, zero errors; 62 transcript anchors verified |
-| Pages publishing and deployed-site checks | Complete; content commit `4d447b7`, 316 HTTP checks, dates/links/backlinks and search index verified; browser automation unavailable |
+| Coverage, citations, links, source overlap | Complete; 239 reviewed notes, zero errors; 77 transcript anchors verified |
+| Pages publishing and deployed-site checks | November 1 publication pending; October 25 release verified |
 
 Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 

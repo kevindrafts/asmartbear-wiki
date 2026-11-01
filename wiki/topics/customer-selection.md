@@ -12,6 +12,8 @@ Two further conversations test whether a customer description is actionable. In 
 
 The [Mindstamp discussion](../../processed/smart-bear-live-e10.md) separates a customizable product from an overly broad audience. A narrow buyer may value flexibility, but a curious prospect without content or an approved project still cannot adopt it. **Editorial connection:** Describe both the reason to prefer the product and the circumstances that make implementation possible. [E10 flexibility](https://smartbearlive.transistor.fm/10/transcript#t=7m48s); [Project readiness](https://smartbearlive.transistor.fm/10/transcript#t=26m22s).
 
+In [Post Bridge](../../processed/smart-bear-live-e12.md), Friks moves from an abstract profile toward people already succeeding with social posts who want broader distribution. Cohen suggests learning from customers who already stay, while Tibo Louis-Lucas proposes comparing customer characteristics with behavior and channel. **Editorial connection:** Use the target description to decide which losses deserve investigation, then revise it against real customers rather than treating an attractive persona as evidence. [E12 target clarification](https://smartbearlive.transistor.fm/12/transcript#t=40m22s); [Segmentation](https://smartbearlive.transistor.fm/12/transcript#t=55m5s); [Interview retained users](https://smartbearlive.transistor.fm/12/transcript#t=1h17m27s).
+
 ## Source notes
 
 - [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](../../processed/icp-ideal-customer-persona.md)

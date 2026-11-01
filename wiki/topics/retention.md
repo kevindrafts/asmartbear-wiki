@@ -12,6 +12,8 @@ The [ScreenshotOne conversation](../../processed/smart-bear-live-e01.md) separat
 
 The [Userlist discussion](../../processed/smart-bear-live-e11.md) distinguishes poor fit, incomplete implementation, and loss of an internal champion. Deicke limits the price-cancellation claim to a small recent sample; Cohen and Mariya Delano propose making results easier to share beyond one user. **Editorial connection:** Investigate who understands the value as well as who operates the product. Broader visibility is a proposed defense against organizational change, not a proven cure for churn. [E11 qualification and reporting](https://smartbearlive.transistor.fm/11/transcript#t=12m51s); [Delano's reporting suggestions](https://smartbearlive.transistor.fm/11/transcript#t=17m47s).
 
+[Post Bridge](../../processed/smart-bear-live-e12.md) adds a behavior-based split: among roughly 1,000 cancellations, some customers never posted, some faded, and others were active when they left. Cohen proposes different investigations for each group and warns against treating every departure as an onboarding failure. **Editorial connection:** Activity can identify whom to interview without revealing why they left; successful usage alone does not guarantee retention. [E12 cancellation sample](https://smartbearlive.transistor.fm/12/transcript#t=20m32s); [Active-user research](https://smartbearlive.transistor.fm/12/transcript#t=22m0s).
+
 ## Source notes
 
 - [The roadmap to Product/Market Fit (PMF)… maybe](../../processed/product-market-fit-formula.md)

@@ -20,6 +20,8 @@
 
 **Editorial exercise:** Use [Userlist](../../processed/smart-bear-live-e11.md) to distinguish paying customers from successfully implemented customers. Then separate buyers who never fit the product from those who lost an internal champion. The corresponding tests might concern qualification, implementation help, or shared visibility of results; the episode does not establish which will improve retention. [E11 champion loss](https://smartbearlive.transistor.fm/11/transcript#t=12m51s); [Implementation estimate](https://smartbearlive.transistor.fm/11/transcript#t=20m9s).
 
+**Editorial exercise:** Use [Post Bridge](../../processed/smart-bear-live-e12.md) to separate never-started customers, declining users, and active users who cancel. Investigate each group rather than assuming all need more onboarding, and compare losses among intended customers with losses outside that group. Then weigh retention work against acquisition the founder can sustain; Cohen and Tibo Louis-Lucas do not settle that trade-off with an observed result. [E12 behavior groups](https://smartbearlive.transistor.fm/12/transcript#t=20m32s); [Which churn matters](https://smartbearlive.transistor.fm/12/transcript#t=53m58s); [Competing emphases](https://smartbearlive.transistor.fm/12/transcript#t=1h19m7s).
+
 ## Source notes
 
 - [Who’s lying?](../../processed/whos-lying.md)

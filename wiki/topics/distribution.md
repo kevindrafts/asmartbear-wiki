@@ -10,6 +10,8 @@ A successful distribution experiment is an input to a business model, not permis
 
 [Mindstamp](../../processed/smart-bear-live-e10.md) supplies a proposed partner mechanism: help training providers offer a differentiated interactive experience, then reach buyers through those relationships. Malnik suggests investigating relevant industry gatherings; Cohen also proposes teaching video-making skills that complement the software. **Editorial connection:** Explain how the partner or learner benefits before assuming access to their audience will produce sales. Neither route has been validated in the episode. [E10 partner outreach](https://smartbearlive.transistor.fm/10/transcript#t=45m38s); [Educational content](https://smartbearlive.transistor.fm/10/transcript#t=54m18s).
 
+The [Post Bridge conversation](../../processed/smart-bear-live-e12.md) preserves a tension between reachable customers and desirable customers. Tibo Louis-Lucas starts with channels the founder can use effectively; Cohen emphasizes attracting people with a continuing need for the product. They agree that the strategy must fit the founder, while assigning different weight to acquisition and retention. **Editorial connection:** Test audience quality and the founder's ability to sustain the channel together. Homepage experiments cannot by themselves repair a mismatch in the visitors arriving. [E12 founder-channel fit](https://smartbearlive.transistor.fm/12/transcript#t=36m53s); [Experiment limits](https://smartbearlive.transistor.fm/12/transcript#t=34m51s); [Closing disagreement](https://smartbearlive.transistor.fm/12/transcript#t=1h19m7s).
+
 ## Source notes
 
 - [If you build it, they won’t come, unless…](../../processed/startup-marketing-ideas.md)
