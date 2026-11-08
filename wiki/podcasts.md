@@ -1,6 +1,6 @@
 # Smart Bear Live: conversations in practice
 
-All twelve conversations listed by the official show on November 1, 2026, read in full and distilled into original notes. These show ideas being questioned and revised with founders; they are not follow-up evidence that the proposed changes worked. The [official show](https://smartbearlive.transistor.fm/) provides the audio and complete transcripts.
+All thirteen conversations listed by the official show on November 8, 2026, read in full and distilled into original notes. These show ideas being questioned and revised with founders; they are not follow-up evidence that the proposed changes worked. The [official show](https://smartbearlive.transistor.fm/) provides the audio and complete transcripts.
 
 | Start with | Conversation | Primary source |
 |---|---|---|
@@ -16,6 +16,7 @@ All twelve conversations listed by the official show on November 1, 2026, read i
 | Finding buyers ready to adopt and partners with a reason to help | [E10: Mindstamp, with Jessica Malnik and Brett Lindenberg](../processed/smart-bear-live-e10.md) · October 18 | [Transcript](https://smartbearlive.transistor.fm/10/transcript) |
 | Improving implementation and proving value beyond one champion | [E11: Userlist, with Mariya Delano, Jane Portman, and Benedikt Deicke](../processed/smart-bear-live-e11.md) · October 24 | [Transcript](https://smartbearlive.transistor.fm/11/transcript) |
 | Diagnosing cancellation patterns and choosing a reachable customer | [E12: Post Bridge, with Tibo Louis-Lucas and Jack Friks](../processed/smart-bear-live-e12.md) · November 1 | [Transcript](https://smartbearlive.transistor.fm/12/transcript) |
+| Making a niche promise credible while increasing qualified demand | [E13: Nusii, with Ruben Gamez and Michael Koper](../processed/smart-bear-live-e13.md) · November 8 | [Transcript](https://smartbearlive.transistor.fm/13/transcript) |
 
 Jason Cohen hosts every conversation. Publication dates above are the official episode-page dates, all in 2026.
 
@@ -35,8 +36,10 @@ E11 extends [retention](topics/retention.md) and [customer support](topics/custo
 
 E12 adds [Post Bridge](../processed/smart-bear-live-e12.md) to the retention cases. **Editorial reading suggestion:** Compare its behavior-based cancellation groups with E11's implementation and champion-loss questions. Both invite investigation; neither lets an aggregate churn figure identify the cause. E12 also preserves disagreement over how much to change acquisition around a chosen customer versus the founder's existing strengths. [E12 groups](https://smartbearlive.transistor.fm/12/transcript#t=20m32s); [E11 diagnosis](https://smartbearlive.transistor.fm/11/transcript#t=12m51s); [E12 closing](https://smartbearlive.transistor.fm/12/transcript#t=1h19m7s).
 
+E13 connects [Nusii](../processed/smart-bear-live-e13.md) to [positioning](topics/positioning.md) and [distribution](topics/distribution.md). **Editorial reading suggestion:** Pair its challenge to niche labels with E07's franchise-product questions, then ask how a specific advantage will reach more suitable buyers. Neither a label nor a new feature settles that acquisition problem. [E13 specialization](https://smartbearlive.transistor.fm/13/transcript#t=34m44s); [E07](https://smartbearlive.transistor.fm/7/transcript#t=57m29s); [E13 acquisition](https://smartbearlive.transistor.fm/13/transcript#t=1h7m31s).
+
 ## Reading limits
 
 These are multi-speaker conversations. Notes attribute guests' contributions separately and retain consequential disagreements. The official transcripts have not been checked against the audio; E05 in particular has inconsistent timestamp ordering and some speaker labels. Business figures are participant reports, and suggested tactics or prices are not demonstrated outcomes. Follow the source when exact wording matters.
 
-All twelve official transcripts located on November 1, 2026 have now been fully read and reviewed. E01 and E04 include printed times beyond the episode pages’ listed audio durations; E04 has no clickable time anchors, so its citations give text timestamps alongside full-transcript links. These are transcript references, not verified audio seek points. See the [update report](../reports/podcast-update.md) and [source catalog](../processed/index.md).
+All thirteen official transcripts located on November 8, 2026 have now been fully read and reviewed. E01 and E04 include printed times beyond the episode pages’ listed audio durations; E04 has no clickable time anchors, so its citations give text timestamps alongside full-transcript links. These are transcript references, not verified audio seek points. See the [update report](../reports/podcast-update.md) and [source catalog](../processed/index.md).

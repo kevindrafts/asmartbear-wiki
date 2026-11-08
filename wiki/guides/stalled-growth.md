@@ -22,6 +22,8 @@
 
 **Editorial exercise:** Use [Post Bridge](../../processed/smart-bear-live-e12.md) to separate never-started customers, declining users, and active users who cancel. Investigate each group rather than assuming all need more onboarding, and compare losses among intended customers with losses outside that group. Then weigh retention work against acquisition the founder can sustain; Cohen and Tibo Louis-Lucas do not settle that trade-off with an observed result. [E12 behavior groups](https://smartbearlive.transistor.fm/12/transcript#t=20m32s); [Which churn matters](https://smartbearlive.transistor.fm/12/transcript#t=53m58s); [Competing emphases](https://smartbearlive.transistor.fm/12/transcript#t=1h19m7s).
 
+**Editorial exercise:** In [Nusii](../../processed/smart-bear-live-e13.md), pair a product advantage for a narrower customer with an explicit route to reach more of those buyers. Gamez's closing caution is that improving the product can absorb a developer's attention while acquisition remains undone. Use the partnership example to specify a buyer activity and a reason for discovery, not merely add another channel to a list. [E13 partnership](https://smartbearlive.transistor.fm/13/transcript#t=31m53s); [Acquisition still required](https://smartbearlive.transistor.fm/13/transcript#t=1h7m31s).
+
 ## Source notes
 
 - [Who’s lying?](../../processed/whos-lying.md)

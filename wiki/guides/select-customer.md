@@ -18,6 +18,8 @@ For the author's guided process, use the [official customer-profile workshop](ht
 
 **Editorial exercise:** Use [NaiL](../../processed/smart-bear-live-e07.md) to distinguish a target's defining traits from public clues that might identify it. Then ask whether the product has a concrete advantage for that target, beyond its category label. A promising signal helps choose whom to investigate; it does not replace a buying conversation. [E07 signals](https://smartbearlive.transistor.fm/7/transcript#t=24m42s); [Differentiation](https://smartbearlive.transistor.fm/7/transcript#t=57m29s).
 
+**Editorial exercise:** Use [Nusii](../../processed/smart-bear-live-e13.md) to distinguish a customer who succeeds once from one whose recurring work sustains product use. For the proposed niche, name a capability that matters especially to its workflow. A new industry label alone does not establish specialization, and the suggested staff and proposal counts are working estimates. [E13 recurring work](https://smartbearlive.transistor.fm/13/transcript#t=3m53s); [Product commitment](https://smartbearlive.transistor.fm/13/transcript#t=34m44s); [Approximate segment](https://smartbearlive.transistor.fm/13/transcript#t=44m31s).
+
 ## Source notes
 
 - [Your target market isn’t demographic](../../processed/target-market.md)

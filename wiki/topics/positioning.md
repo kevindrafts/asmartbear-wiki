@@ -8,6 +8,8 @@ The promise must also survive contact with delivery. Comparing what the company 
 
 The [NaiL discussion](../../processed/smart-bear-live-e07.md) questions whether serving a franchise is enough to claim a differentiated franchise product. Dan Martell and Cohen ask for capabilities or integrations that matter particularly to that buyer, and for evidence beyond one deployment. **Editorial connection:** A niche label describes an intention; repeatable purchasing and specific workflow advantages help establish the promise. The episode leaves that validation open. [E07 product and differentiation](https://smartbearlive.transistor.fm/7/transcript#t=57m29s).
 
+The [Nusii conversation](../../processed/smart-bear-live-e13.md) tests both the promise and the comparison behind it. Gamez distinguishes several meanings of simplicity and notes that proposal software can feel easy relative to manual work even when competitors make the same claim. Cohen then challenges industry labels unsupported by capabilities specific to that buyer. **Editorial connection:** Explain what becomes easier for this customer, compared with what they do now, and show the product behavior behind the claim. [E13 alternatives](https://smartbearlive.transistor.fm/13/transcript#t=17m30s); [Meanings of simple](https://smartbearlive.transistor.fm/13/transcript#t=26m21s); [Niche product versus label](https://smartbearlive.transistor.fm/13/transcript#t=34m44s).
+
 ## Source notes
 
 - [Your target market isn’t demographic](../../processed/target-market.md)

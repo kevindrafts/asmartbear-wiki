@@ -8,6 +8,8 @@ Autonomy and coordination can conflict. Individual preferences deserve room, whi
 
 Keep the distinction between preserving principles and preserving every process as the company grows.
 
+In [Nusii](../../processed/smart-bear-live-e13.md), Cohen describes a mission as something that would change what the company learns, builds, and communicates about customer outcomes. He allows that a company can discover such a commitment after founding, while insisting it must be sincerely held. **Editorial connection:** Ask which work the mission changes before judging the wording of its statement. The proposal-improvement examples are hypothetical product ideas, not established rules for winning deals. [E13 behavior implied by mission](https://smartbearlive.transistor.fm/13/transcript#t=58m27s); [A later mission](https://smartbearlive.transistor.fm/13/transcript#t=1h0m4s).
+
 ## Source notes
 
 - [In its emptiness, there is the function of a startup](../../processed/emptiness.md)

@@ -14,6 +14,8 @@ The [Mindstamp discussion](../../processed/smart-bear-live-e10.md) separates a c
 
 In [Post Bridge](../../processed/smart-bear-live-e12.md), Friks moves from an abstract profile toward people already succeeding with social posts who want broader distribution. Cohen suggests learning from customers who already stay, while Tibo Louis-Lucas proposes comparing customer characteristics with behavior and channel. **Editorial connection:** Use the target description to decide which losses deserve investigation, then revise it against real customers rather than treating an attractive persona as evidence. [E12 target clarification](https://smartbearlive.transistor.fm/12/transcript#t=40m22s); [Segmentation](https://smartbearlive.transistor.fm/12/transcript#t=55m5s); [Interview retained users](https://smartbearlive.transistor.fm/12/transcript#t=1h17m27s).
 
+[Nusii](../../processed/smart-bear-live-e13.md) separates a customer's success from continuing demand for the tool: a freelancer who wins a project may stop needing proposal software. Cohen and Ruben Gamez explore agencies with a recurring proposal workload instead. **Editorial connection:** Define the repeated job and buying circumstances before turning company size or volume estimates into filters; the episode's numerical boundaries remain approximate. [E13 recurring need](https://smartbearlive.transistor.fm/13/transcript#t=3m53s); [Working segment](https://smartbearlive.transistor.fm/13/transcript#t=44m31s).
+
 ## Source notes
 
 - [Selling to Carol: Why targeting an ICP brings 10x more customers than you expected](../../processed/icp-ideal-customer-persona.md)

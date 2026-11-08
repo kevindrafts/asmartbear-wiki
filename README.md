@@ -4,7 +4,7 @@ An independent, source-linked reading companion to Jason Cohen's company-buildin
 
 **Website:** https://kevindrafts.github.io/asmartbear-wiki/
 
-239 reviewed notes: 227 articles and mailbags plus twelve podcast conversations, with 43 topics, 10 decision guides, and five reading paths. Every included source was read in full; originals remain linked, not republished. The collection, checked November 1, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [essay update log](reports/recent-update.md) records the October 17 additions and October 25 refreshes to delegation and target-market notes. The [podcast update](reports/podcast-update.md) covers all twelve listed episodes, including E12 with Tibo Louis-Lucas and Post Bridge, added November 1. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
+240 reviewed notes: 227 articles and mailbags plus thirteen podcast conversations, with 43 topics, 10 decision guides, and five reading paths. Every included source was read in full; originals remain linked, not republished. The collection, checked November 8, 2026, includes 14 mailbags and two essays discovered beyond the sitemap. The [essay update log](reports/recent-update.md) records the October 17 additions and October 25 refreshes to delegation and target-market notes. The [podcast update](reports/podcast-update.md) covers all thirteen listed episodes, including E13 with Ruben Gamez and Nusii, added November 8. See [coverage](reports/coverage.md), [build status](reports/build-status.md), and [completion](reports/completion.md).
 
 ## Build and check
 

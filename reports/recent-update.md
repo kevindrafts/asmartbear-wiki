@@ -36,3 +36,8 @@ The article collection remains 227 reviewed notes, totaling 344,815 extracted wo
 ## November 1 discovery check
 
 Checked the official [homepage](https://longform.asmartbear.com/), [RSS feed](https://longform.asmartbear.com/index.xml), and [sitemap](https://longform.asmartbear.com/sitemap.xml). No new article candidates or changed sitemap timestamps were found against the October 25 reviewed catalog. The sitemap still contains 227 records, including two non-article pages; two off-sitemap essays remain included separately. Article bodies were not fetched again, so body-only changes without discovery metadata updates are outside this check. Article notes and catalog metadata remain unchanged. The new podcast source and its review are recorded in the [podcast update](podcast-update.md).
+
+
+## November 8 discovery check
+
+Checked the official [homepage](https://longform.asmartbear.com/), [RSS feed](https://longform.asmartbear.com/index.xml), and [sitemap](https://longform.asmartbear.com/sitemap.xml) against the last completed November 1 check and reviewed catalog. No new article candidates or changed sitemap timestamps were found. The sitemap remains at 227 records, including two non-article pages; two off-sitemap essays remain included separately. Article bodies were not refetched, so unannounced body-only changes are outside this check. Article notes and catalog metadata remain unchanged. The [podcast update](podcast-update.md) records the new source in this batch.

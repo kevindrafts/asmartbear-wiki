@@ -1,6 +1,6 @@
 # Coverage and source boundary
 
-Discovery checked: 2026-11-01. Original capture: 2026-09-30, with one addition and two source refreshes on October 17; see [recent update](recent-update.md). The November 1 homepage, RSS, and sitemap check found no new articles or changed source timestamps. Article bodies were not fetched again in this batch, so unannounced body-only revisions are outside this check. The October 25 batch reread two revised articles in full. This is a complete reading companion to the discovered longform corpus, not a career-wide archive.
+Discovery checked: 2026-11-08. Original capture: 2026-09-30, with one addition and two source refreshes on October 17; see [recent update](recent-update.md). The November 8 homepage, RSS, and sitemap check found no new articles or changed source timestamps. Article bodies were not fetched again in this batch, so unannounced body-only revisions are outside this check. The October 25 batch reread two revised articles in full. This is a complete reading companion to the discovered longform corpus, not a career-wide archive.
 
 **227 included sources; 227 read in full; 227 reviewed notes.** 344,815 extracted source words were read externally. No included fetch failures or pending reviews.
 
@@ -89,13 +89,13 @@ Every discovered in-scope-domain URL has an included or exclusion record. Extern
 
 ## Podcast coverage
 
-The official Smart Bear Live episode list and transcript links were checked November 1, 2026: twelve transcripts were located. 12 episodes were read in full and reviewed, totaling 296,177 extracted words including speaker labels and timestamps. The November 1 check adds E12; the eleven earlier transcript bodies match their reviewed hashes. All twelve listed transcripts have complete reviews. This is coverage of the discovered 2026 show, not a claim to every historical podcast appearance. See [the podcast index](../wiki/podcasts.md) and [update report](podcast-update.md).
+The official Smart Bear Live episode list and transcript links were checked November 8, 2026: thirteen transcripts were located. 13 episodes were read in full and reviewed, totaling 310,359 extracted words including speaker labels and timestamps. The November 8 check adds E13; the twelve earlier transcript bodies match their reviewed hashes. All thirteen listed transcripts have complete reviews. This is coverage of the discovered 2026 show, not a claim to every historical podcast appearance. See [the podcast index](../wiki/podcasts.md) and [update report](podcast-update.md).
 
 The podcast catalog and external review ledger are separate from blog discovery. Transcript wording, timestamps, and speaker labels have not been checked against audio. Notes preserve guest attribution, conditional advice, and known transcript inconsistencies. E01 and E04 have text timestamps beyond the listed audio durations; E04 has no clickable time anchors.
 
 ## Editorial coverage
 
-239 concise source-linked notes (227 articles and mailbags, 12 podcast episodes), 43 topic pages, 10 practical decision guides, and five stage-based reading paths. The [source catalog](../processed/index.md) reaches every note. Every note connects to at least one substantive topic, and synthesis pages cite multiple primary sources.
+240 concise source-linked notes (227 articles and mailbags, 13 podcast episodes), 43 topic pages, 10 practical decision guides, and five stage-based reading paths. The [source catalog](../processed/index.md) reaches every note. Every note connects to at least one substantive topic, and synthesis pages cite multiple primary sources.
 
 All included article bodies, footnotes, extracted table cells, image alt text, and captions were read. Diagram meaning is described in original prose where relevant; diagrams themselves are not copied. This is not a claim that every decorative image was visually inspected. Explicit source discrepancies and technical qualifications are retained in the relevant notes (including color wheels, A/B statistics, forecasting, and revenue models).
 
