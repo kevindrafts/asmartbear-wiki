@@ -1,6 +1,6 @@
 # Build status
 
-Updated November 8, 2026. The weekly update adds [E13 with Ruben Gamez and Nusii](podcast-update.md), bringing coverage to 240 reviewed sources: 227 articles/mailbags and thirteen episodes. Four topics and two guides receive changes. The new transcript was read completely; all twelve earlier transcript bodies match their reviewed hashes. Blog discovery found no new articles or changed timestamps. All 25 tests pass (22 Python and three JavaScript). The strict site build and complete-corpus, citation, link, and source-cache audits pass with 240 notes and zero errors. Staged/history review and publication verification are pending.
+Updated November 8, 2026. The weekly update adds [E13 with Ruben Gamez and Nusii](podcast-update.md), bringing coverage to 240 reviewed sources: 227 articles/mailbags and thirteen episodes. Four topics and two guides receive changes. The new transcript was read completely; all twelve earlier transcript bodies match their reviewed hashes. Blog discovery found no new articles or changed timestamps. All 25 tests pass (22 Python and three JavaScript). The strict site build and complete-corpus, citation, link, and source-cache audits pass with 240 notes and zero errors. Staged/history review found zero issues. Content commit `596d74d` is deployed; all 318 live HTTP checks passed, with every content page present in search.
 
 | Phase | State |
 |---|---|
@@ -13,7 +13,7 @@ Updated November 8, 2026. The weekly update adds [E13 with Ruben Gamez and Nusii
 | Cross-article synthesis | Complete; 43 topics, 10 decision guides, five reading paths |
 | Static site and search | Complete; MkDocs, responsive navigation, source dates, backlinks |
 | Coverage, citations, links, source overlap | Complete; 240 reviewed notes, zero errors; 90 transcript anchors verified |
-| Pages publishing and deployed-site checks | November 8 publication pending; November 1 release verified |
+| Pages publishing and deployed-site checks | Complete; content commit `596d74d`, 318 HTTP checks, source date/links/backlinks and search index verified; browser automation unavailable |
 
 Public site: [A Smart Bear — Unofficial Field Notes](https://kevindrafts.github.io/asmartbear-wiki/). Exact commands, counts, failures, tests, and deployment evidence are in the [completion report](completion.md).
 
