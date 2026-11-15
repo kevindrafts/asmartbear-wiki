@@ -10,9 +10,11 @@
 
 **Leave with:** A price hypothesis, an economically plausible delivery model, evidence from the intended buyer, and a review trigger. A price rise can fail, and an attractive value calculation is not proof of willingness to pay. The [official skills site](https://skills.asmartbear.com/) provides the author's pricing tools.
 
-## Worked conversation
+## Worked conversations
 
 **Editorial exercise:** In [Post Bridge](../../processed/smart-bear-live-e12.md), compare the buyer implied by each plan's label with the buyer implied by its limits and price. Cohen asks whether beginner-oriented packaging matches an already successful user; Tibo Louis-Lucas proposes testing a simpler per-account offer with a minimum. Use the case to check coherence, not to copy its untested price. [E12 tier audiences](https://smartbearlive.transistor.fm/12/transcript#t=1h2m40s); [Pricing test](https://smartbearlive.transistor.fm/12/transcript#t=1h7m34s).
+
+**Editorial exercise:** Use [Hatchbox](../../processed/smart-bear-live-e14.md) to list the service customers expect, the labor needed to deliver it, and the revenue available to fund that labor. Compare a higher-priced commitment with a more limited service, then test an offer with the relevant customer group. The episode's amounts are examples, and response times should not be mistaken for guaranteed resolution times. [E14 economics](https://smartbearlive.transistor.fm/14/transcript#t=50m36s); [Proposed service tiers](https://smartbearlive.transistor.fm/14/transcript#t=1h5m13s).
 
 ## Source notes
 

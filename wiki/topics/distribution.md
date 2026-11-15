@@ -14,6 +14,8 @@ The [Post Bridge conversation](../../processed/smart-bear-live-e12.md) preserves
 
 [Nusii](../../processed/smart-bear-live-e13.md) adds a concrete partnership example: Gamez reports that a course used Bidsketch inside its agency sales process, bringing customers through a relevant task. He still warns that a more distinctive product needs more qualified prospects; building features does not complete acquisition. **Editorial connection:** Look for a setting where the buyer is already doing the work your product supports, then test whether the relationship brings suitable customers. The Bidsketch experience does not establish results for Nusii. [E13 course partnership](https://smartbearlive.transistor.fm/13/transcript#t=31m53s); [Qualified volume](https://smartbearlive.transistor.fm/13/transcript#t=1h7m31s).
 
+[Hatchbox](../../processed/smart-bear-live-e14.md) tests whether an established educator can rebuild the path from useful content to product adoption. Orenstein suggests experiments with formats that reflect current development work, while also questioning why an agent would choose the service. **Editorial connection:** Test what the audience now needs and how discovery becomes product use; an existing reputation does not establish that the old channel still works. The conversation leaves both the content strategy and agent-led discovery unresolved. [E14 format experiments](https://smartbearlive.transistor.fm/14/transcript#t=37m47s); [Education-to-product model](https://smartbearlive.transistor.fm/14/transcript#t=49m50s); [Agent selection question](https://smartbearlive.transistor.fm/14/transcript#t=56m35s).
+
 ## Source notes
 
 - [If you build it, they won’t come, unless…](../../processed/startup-marketing-ideas.md)

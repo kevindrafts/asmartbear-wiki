@@ -41,3 +41,8 @@ Checked the official [homepage](https://longform.asmartbear.com/), [RSS feed](ht
 ## November 8 discovery check
 
 Checked the official [homepage](https://longform.asmartbear.com/), [RSS feed](https://longform.asmartbear.com/index.xml), and [sitemap](https://longform.asmartbear.com/sitemap.xml) against the last completed November 1 check and reviewed catalog. No new article candidates or changed sitemap timestamps were found. The sitemap remains at 227 records, including two non-article pages; two off-sitemap essays remain included separately. Article bodies were not refetched, so unannounced body-only changes are outside this check. Article notes and catalog metadata remain unchanged. The [podcast update](podcast-update.md) records the new source in this batch.
+
+
+## November 15 discovery check
+
+Checked the official [homepage](https://longform.asmartbear.com/), [RSS feed](https://longform.asmartbear.com/index.xml), and [sitemap](https://longform.asmartbear.com/sitemap.xml) against the last completed November 8 check and reviewed catalog. No new article candidates or changed sitemap timestamps were found. The sitemap remains at 227 records, including two non-article pages; two off-sitemap essays remain included separately. Article bodies were not refetched, so unannounced body-only changes are outside this check. Article notes and catalog metadata remain unchanged. The [podcast update](podcast-update.md) records the new source in this batch.

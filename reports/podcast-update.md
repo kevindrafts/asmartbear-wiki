@@ -1,6 +1,6 @@
 # Smart Bear Live updates
 
-The November 8 check added E13 after earlier batches reviewed E01–E12. The wiki now includes **240 reviewed sources: 227 articles and mailbags plus all thirteen Smart Bear Live episodes listed on November 8, 2026**. All 310,359 extracted transcript words were read externally. The [podcast index](../wiki/podcasts.md) reaches every episode. Totals remain 43 topics, 10 guides, and five reading paths.
+The November 15 check added E14 after earlier batches reviewed E01–E13. The wiki now includes **241 reviewed sources: 227 articles and mailbags plus all fourteen Smart Bear Live episodes listed on November 15, 2026**. All 326,286 extracted transcript words were read externally. The [podcast index](../wiki/podcasts.md) reaches every episode. Totals remain 43 topics, 10 guides, and five reading paths.
 
 ## Initial five-episode batch
 
@@ -104,3 +104,14 @@ Updated customer selection, positioning, distribution, and company culture topic
 All 25 tests pass (22 Python and three JavaScript). The strict site build and complete-corpus, citation, link, and source-cache audits pass with 240 notes and zero errors. Staged/history review reported zero findings. Content commit `596d74d` was pushed to `main` and published by [deployment 42465752970](https://github.com/kevindrafts/asmartbear-wiki/actions/runs/42465752970), which independently passed tests, validation, and the strict build. The deployed-site audit passed **318 HTTP checks: 313 content pages plus five assets**, with every content page present in search and zero errors. Targeted HTTP checks verified E13's source date, participant attribution, commentary, primary-source link, topic links, and backlinks; the public search index contains E13 and Nusii. The final evidence refresh uses the same validated publishing workflow. All 90 unique transcript anchors match current official HTML, including thirteen for E13.
 
 Browser automation was unavailable for this run; live HTML and search were checked by HTTP rather than browser interaction.
+
+
+## November 15 weekly update
+
+Added [E14 with Ben Orenstein and Chris Oliver of Hatchbox](https://smartbearlive.transistor.fm/14), officially published November 15, 2026. The [official episode list](https://smartbearlive.transistor.fm/episodes) contains fourteen entries. All thirteen earlier full transcript bodies were fetched sequentially and matched their reviewed hashes.
+
+Read all 15,927 words of the [official E14 transcript](https://smartbearlive.transistor.fm/14/transcript), including the closing conditional pricing experiment and unresolved choice about the business. The complete transcript container exactly matches the extracted words; it contains no images or tables. The note preserves Orenstein's founder-fit objection and his disagreement with Cohen over AI substitution. It distinguishes proposed support response commitments from resolution guarantees, illustrative prices from validated offers, and one reported MCP customer use case from broader demand. The alternatives include different buyers, updated educational content, a revised product position, and sponsorship; no final strategy or later result is established. Competitor comparisons, survey interpretations, algorithm explanations, and disputed agent terminology are not treated as verified technical facts. Transcript fragments including 16:54 and 29:38 are out of order; audio was not checked.
+
+Updated pricing, customer support, founder market fit, and distribution topics, plus the pricing and stalled-growth guides. Coverage is **241 notes: 227 articles/mailbags and fourteen episodes**, with 326,286 extracted transcript words. Blog discovery found no new articles or changed sitemap timestamps; see [article update log](recent-update.md). Robots were checked on both source hosts; requests were sequential with at least 2.1 seconds between them, and no source JSON or `/ref/` endpoints were requested. Full captures and reading evidence remain exclusively in the external cache's `weekly-2026-11-15` directory and reviewed-cache records.
+
+All 25 tests pass (22 Python and three JavaScript). The strict site build and complete-corpus, citation, link, and source-cache audits pass with 241 notes and zero errors. Staged/history review and publication verification are pending. All 105 unique transcript anchors match current official HTML, including fifteen for E14.

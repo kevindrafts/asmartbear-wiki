@@ -6,6 +6,8 @@ Personal experience supplies insight, but does not make the founder representati
 
 **Editorial application:** Describe what you can deliver consistently, what work you want to sustain, and what customers will pay for. Design the company around their intersection, then revisit it as the role changes. The [official self-discovery workshop](https://skills.asmartbear.com/workshops/find-yourself/) extends Cohen's exercises. A fit today is not a permanent identity or a promise of success.
 
+The [Hatchbox discussion](../../processed/smart-bear-live-e14.md) separates keeping Oliver's strengths from keeping his old tactics. Orenstein proposes exploring content people now want to watch, while Cohen cautions against combining a platform rebuild with a transformation in selling. Oliver also explains why a content-only business would omit building work he finds fulfilling. **Editorial connection:** Compare feasible ways of working alongside their economics; a familiar strength does not require an unchanged format or product. [E14 founder fit](https://smartbearlive.transistor.fm/14/transcript#t=16m44s); [Capacity](https://smartbearlive.transistor.fm/14/transcript#t=32m42s); [Content-only limitation](https://smartbearlive.transistor.fm/14/transcript#t=1h4m49s).
+
 ## Source notes
 
 - [Pivot Points](../../processed/pivot-points.md)

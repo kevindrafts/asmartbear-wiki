@@ -10,6 +10,8 @@ Support data is rich but selected: silent abandoners and non-buyers need other r
 
 In [Userlist](../../processed/smart-bear-live-e11.md), paying does not reliably imply completed setup. Mariya Delano proposes showing the benefit of a missing integration inside the product; Cohen connects that moment to targeted implementation help. They also discuss paid onboarding, while allowing that customers who already implement successfully may need a different offer. **Editorial connection:** Match assistance to the blocked action and the buyer's capabilities; a generic reminder is not the same as resolving the obstacle. [E11 contextual help](https://smartbearlive.transistor.fm/11/transcript#t=22m43s); [Onboarding qualifications](https://smartbearlive.transistor.fm/11/transcript#t=25m28s).
 
+In [Hatchbox](../../processed/smart-bear-live-e14.md), Cohen describes customers expecting urgent help even when they buy infrastructure elsewhere. Cohen argues that a small team's price and response commitment must account for that burden; Oliver notes the difficulty of staffing continuous coverage. **Editorial connection:** Define what assistance is included and when it is available before treating unpaid founder availability as a sustainable service. A response commitment describes when help begins, not when every incident will be resolved. [E14 staffing constraint](https://smartbearlive.transistor.fm/14/transcript#t=52m32s); [Proposed commitments](https://smartbearlive.transistor.fm/14/transcript#t=1h5m13s).
+
 ## Source notes
 
 - [Tech Support is sales](../../processed/tech-support-is-sales.md)

@@ -2,15 +2,15 @@
 
 An unofficial reading companion to **Jason Cohen’s A Smart Bear**: concise original notes, connected ideas, and practical questions. Read the linked originals for the full argument, examples, and diagrams. This project is independent and is not endorsed by Cohen.
 
-**240 sources read and reviewed · 43 topics · 10 decision guides · 5 reading paths**
+**241 sources read and reviewed · 43 topics · 10 decision guides · 5 reading paths**
 
-227 articles and mailbags, plus thirteen Smart Bear Live conversations.
+227 articles and mailbags, plus fourteen Smart Bear Live conversations.
 
-Latest discovery check: November 8, 2026. [Podcast update](reports/podcast-update.md): E13 examines Nusii’s positioning, specialization, and acquisition. Blog discovery found no new articles or changed source timestamps; the [article update log](reports/recent-update.md) records prior refreshes.
+Latest discovery check: November 15, 2026. [Podcast update](reports/podcast-update.md): E14 examines Hatchbox’s pricing, support economics, and founder fit. Blog discovery found no new articles or changed source timestamps; the [article update log](reports/recent-update.md) records prior refreshes.
 
 New: [“You didn’t do it right”](processed/you-didnt-do-it-right.md) — testing whether a management framework fits your team.
 
-Also new: [Smart Bear Live](wiki/podcasts.md) — all thirteen listed episodes, covering interviews, customer focus, growth, strategy, sales, and founder purpose, with links into the official transcripts.
+Also new: [Smart Bear Live](wiki/podcasts.md) — all fourteen listed episodes, covering interviews, customer focus, growth, strategy, sales, and founder purpose, with links into the official transcripts.
 
 ## Start with a decision
 

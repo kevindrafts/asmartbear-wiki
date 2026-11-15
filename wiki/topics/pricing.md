@@ -16,6 +16,8 @@ The [Userlist conversation](../../processed/smart-bear-live-e11.md) includes dis
 
 [Post Bridge](../../processed/smart-bear-live-e12.md) connects the pricing page to the customer definition: Cohen questions beginner-oriented labels when the intended buyer is already succeeding. Tibo Louis-Lucas proposes testing one per-account charge with a minimum, consistent with a simple product; he also notes that this can confuse buyers with few accounts. **Editorial connection:** Make both the target buyer and the billing rule clear. His examples from other products do not establish that fewer plans or the proposed amount will work here. [E12 tier audiences](https://smartbearlive.transistor.fm/12/transcript#t=1h2m40s); [Proposed pricing test](https://smartbearlive.transistor.fm/12/transcript#t=1h7m34s); [Minimum qualification](https://smartbearlive.transistor.fm/12/transcript#t=1h9m5s).
 
+[Hatchbox](../../processed/smart-bear-live-e14.md) exposes a mismatch between low fees and responsibility for urgent infrastructure problems. Cohen proposes changing the price, the support commitment, or both, so the service can fund its delivery. **Editorial connection:** A pricing test should specify the responsibility being sold and the customer who values it. The episode's sample amounts and response times are illustrative, and it reports no outcome from changing them. [E14 operating economics](https://smartbearlive.transistor.fm/14/transcript#t=50m36s); [Service segmentation](https://smartbearlive.transistor.fm/14/transcript#t=1h5m13s).
+
 ## Source notes
 
 - [Pricing determines your business model](../../processed/pricing-determines-your-business-model.md)

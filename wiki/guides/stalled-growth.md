@@ -24,6 +24,8 @@
 
 **Editorial exercise:** In [Nusii](../../processed/smart-bear-live-e13.md), pair a product advantage for a narrower customer with an explicit route to reach more of those buyers. Gamez's closing caution is that improving the product can absorb a developer's attention while acquisition remains undone. Use the partnership example to specify a buyer activity and a reason for discovery, not merely add another channel to a list. [E13 partnership](https://smartbearlive.transistor.fm/13/transcript#t=31m53s); [Acquisition still required](https://smartbearlive.transistor.fm/13/transcript#t=1h7m31s).
 
+**Editorial exercise:** In [Hatchbox](../../processed/smart-bear-live-e14.md), separate an outdated acquisition approach from a service promise that earns too little to support its workload. Compare changes that fit the founder's strengths and the team's capacity; improving content alone does not settle the support economics. Preserve the open question of how AI changes the product's value instead of assuming either inevitable replacement or permanent protection. [E14 strategy capacity](https://smartbearlive.transistor.fm/14/transcript#t=32m42s); [Substitution disagreement](https://smartbearlive.transistor.fm/14/transcript#t=43m36s); [Service economics](https://smartbearlive.transistor.fm/14/transcript#t=1h5m13s).
+
 ## Source notes
 
 - [Who’s lying?](../../processed/whos-lying.md)
